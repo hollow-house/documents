@@ -21,7 +21,7 @@ Type `/help` or `/karuta` for checking **bot** works
 ## STEP 4. Subscribe Premium (Optional)
 
 * Go to  [🚪│bot-lobby](https://discord.gg/zTcaPARjfb)
-* Give me a ticket **(10 tickets per 28 days latest updated on 11/11/2021)**
+* Give me a ticket **(current price see at** [🎫│how-to-premium](https://discord.com/channels/796239424165904446/912208106270916658))
 * Give me your **server id**
 * `/remaining` in your server for checking premium is **active**
 * Enjoy!!
