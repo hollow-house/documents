@@ -33,5 +33,5 @@ description: Bot Commands
 | **/set starboard (Non-Premium)** | <p>Set up starboard, Can set channel only</p><p>Use <code>estar</code> for add to the board</p> | <p>/set starboard </p><p>channel:#🌟│starboard </p>           |
 | **/starboard-status**            | Checking Starboard Server Config                                                                | /starboard-status                                             |
 | **/set server-drop-watch**       | Enable or disable the **server drop** ping in your server.                                      | /set server-drop-watch active:True                            |
-| /**set wishlist-drop-watch**     | Enable or disable the **wishlist drop **ping in your server.                                    | /set wishlist-drop-watch active:True                          |
+| /**set wishlist-drop-watch**     | Enable or disable the **wishlist drop** ping in your server.                                    | /set wishlist-drop-watch active:True                          |
 

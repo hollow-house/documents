@@ -20,15 +20,15 @@ Bot need is in High-Performance Server, It makes Bot process faster than now
 * Bit Summition
 
 {% hint style="info" %}
-**Bot Name              **:**  **Hollow
+**Bot Name**              :  ****  Hollow
 
-**Developer             **:** **zeing#6498
+**Developer**             : **** zeing#6498
 
-**Listening               **:**  **/ (Slash Command)
+**Listening**               :  ****  / (Slash Command)
 
 **Support Server**  : [HEE YAI SANDBOX](https://discord.gg/zTcaPARjfb)
 
-**Status                     **: Online (Beta)
+**Status**                     : Online (Beta)
 
 
 {% endhint %}

@@ -9,7 +9,7 @@ description: Features of bot
 I say q wishlist of cards if somebody drops a card over **100 WL**.
 
 {% hint style="info" %}
-**How to subscribe premium**, Contact **zeing#6498 **in [Support Server](https://discord.gg/zTcaPARjfb).
+**How to subscribe premium**, Contact **zeing#6498** in [Support Server](https://discord.gg/zTcaPARjfb).
 {% endhint %}
 
 ![](.gitbook/assets/image.png)
@@ -22,12 +22,12 @@ I say q wishlist of cards if somebody drops a card over **100 WL**.
 {% hint style="warning" %}
 How's different between **Server Drop** and **User Drop.**
 
-* **Server Drop => **Ping with Role (<mark style="color:green;">**@A LOT OF WISHLISTS**</mark>)
-* **User Drop => **Only** **Ping&#x20;
+* **Server Drop =>** Ping with Role (<mark style="color:green;">**@A LOT OF WISHLISTS**</mark>)
+* **User Drop =>** Only **** Ping&#x20;
 {% endhint %}
 
 {% hint style="info" %}
-**TIP:** about <mark style="color:green;">**@A LOT OF WISHLISTS**</mark>** **Role. You can give it to members for getting ping when **Server Drop.**
+**TIP:** about <mark style="color:green;">**@A LOT OF WISHLISTS**</mark>** ** Role. You can give it to members for getting ping when **Server Drop.**
 {% endhint %}
 
 
@@ -71,7 +71,7 @@ It displays 1. Starboard Channel 2. is active for auto 3. minimum wishlist which
 1. Type `/set starboard`&#x20;
    1. **select** #channel which you want to make starboard channel.&#x20;
    2. **set** active when you want to auto add.
-   3. **set **number of minimum wishlists which you want to add.
+   3. **set** number of minimum wishlists which you want to add.
 
 ![](<.gitbook/assets/image (13).png>)
 
@@ -122,7 +122,7 @@ For **non-premium** servers, you must add the :printer: reaction manually.
 ![](<.gitbook/assets/image (4).png>)
 
 {% hint style="info" %}
-**TIP: **If you want to sum all nodes (2 pages) just react :printer: then change to 2nd page
+**TIP:** If you want to sum all nodes (2 pages) just react :printer: then change to 2nd page
 
 it will sum all nodes
 {% endhint %}
@@ -132,15 +132,15 @@ it will sum all nodes
 ![](<.gitbook/assets/image (12).png>)
 
 {% hint style="info" %}
-**For User: **You can use **/role wishlist-drop-watch active:True **(slash command) to enable
+**For User:** You can use **/role wishlist-drop-watch active:True** (slash command) to enable
 
 And when you want to disable just use **/role wishlist-drop-watch active:False**
 {% endhint %}
 
 {% hint style="warning" %}
-**For ADMIN: **First of all admin use enable this feature in the server by **/set wishlist-drop-watch active:True **
+**For ADMIN:** First of all admin use enable this feature in the server by **/set wishlist-drop-watch active:True**&#x20;
 
-If you want to disable ping in your server  **/set wishlist-drop-watch active:False **
+If you want to disable ping in your server  **/set wishlist-drop-watch active:False**&#x20;
 {% endhint %}
 
 
@@ -150,13 +150,13 @@ If you want to disable ping in your server  **/set wishlist-drop-watch active:Fa
 ![](<.gitbook/assets/image (3).png>)
 
 {% hint style="info" %}
-**For User: **You can use **/role server-drop-watch active:True **(slash command) to enable
+**For User:** You can use **/role server-drop-watch active:True** (slash command) to enable
 
 And when you want to disable just use **/role server-drop-watch active:False**
 {% endhint %}
 
 {% hint style="warning" %}
-**For ADMIN: **First of all admin use enable this feature in the server by **/set server-drop-watch active:True **
+**For ADMIN:** First of all admin use enable this feature in the server by **/set server-drop-watch active:True**&#x20;
 
-If you want to disable ping in your server  **/set server-drop-watch active:False **
+If you want to disable ping in your server  **/set server-drop-watch active:False**&#x20;
 {% endhint %}
