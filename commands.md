@@ -15,7 +15,7 @@ description: Bot Commands
 | **/me (need add more content)**                      | Check your user information                  | /me         |
 | **/ping**                                            | Show bot's latency                           | /ping       |
 | **/help**                                            | Show Bot Help                                | /help       |
-| **/serverinfo (need add more content)**              | Show your server info                        | /serverinfo |
+| **/serverinfo**                                      | Show your server's configuration info        | /serverinfo |
 
 ### Karuta Commands
 
@@ -34,4 +34,5 @@ description: Bot Commands
 | **/starboard-status**            | Checking Starboard Server Config                                                                | /starboard-status                                             |
 | **/set server-drop-watch**       | Enable or disable the **server drop** ping in your server.                                      | /set server-drop-watch active:True                            |
 | /**set wishlist-drop-watch**     | Enable or disable the **wishlist drop** ping in your server.                                    | /set wishlist-drop-watch active:True                          |
+| **/set pog-drop-ping**           | Enable or disable the **POG drop** ping role in your server.                                    | /set pog-drop-ping role:@Orange                               |
 
