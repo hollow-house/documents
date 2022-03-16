@@ -6,7 +6,7 @@ description: Features of bot
 
 ### **POG Drop Ping (Premium)**
 
-I say q wishlist of cards if somebody drops a card over **100 WL**.
+show a wishlist of cards if somebody drops a card over **100 WL**. (You can config minimum wl for ping)
 
 {% hint style="info" %}
 **How to subscribe premium**, Contact **zeing#6498** in [Support Server](https://discord.gg/zTcaPARjfb).
@@ -28,6 +28,8 @@ How's different between **Server Drop** and **User Drop.**
 
 {% hint style="info" %}
 **TIP:** about <mark style="color:green;">**@A LOT OF WISHLISTS**</mark>** ** Role. You can give it to members for getting ping when **Server Drop.**
+
+**You can change role which you want to ping**
 {% endhint %}
 
 
@@ -35,7 +37,7 @@ How's different between **Server Drop** and **User Drop.**
 ### **Starboard**
 
 {% hint style="info" %}
-**How to check** starboard setting, Just type **`/starboard-status`**
+**How to check** starboard setting, Just type **`/starboard-status or /serverinfo`**
 
 It displays 1. Starboard Channel 2. is active for auto 3. minimum wishlist which you want to add to starboard
 
@@ -91,19 +93,28 @@ You can search by **`keyword`** for getting code, just open and react 🔎
 * Type `genshin` you will get `4ft5jp`
 * Type `2492` you will get `4fgs4j`
 
-### Searching For Get Character Name
+### Searching For Get **Karuta's** Content
 
 {% hint style="warning" %}
 For **non-premium** servers, you must add the 👱‍♂️ reaction manually.
 {% endhint %}
 
-It seems like Searching to Code but You will get **Character Name** Instead
+It seems like Searching to Code but You will get **Karuta's** **Content** Instead
+
+![](<.gitbook/assets/image (1).png>)
 
 **For Example** =>
 
-* Type `4ft` you will get `Yoimiya,Cynthia Moore`
-* Type `genshin` you will get `Yoimiya`
-* Type `2492` you will get `Rika Hoshizaki`
+* Type `9k2` you will get&#x20;
+  * ♡6 · **9k2r6d** · ★★★☆ · #16725 · ◈2 · I Tried Asking In Dogeza · **Murakami Sanami**&#x20;
+  * &#x20;♡0 · **9k2rxs** · ★☆☆☆ · #31954 · ◈1 · Tokyo Magnitude 8.0 · **Rescue Volunteer**
+*   Type `Materia` you will get&#x20;
+
+    *   ♡2 · **9kkm26** · ☆☆☆☆ · #3046  · ◈3 · Frame Arms Girl · **Materia Kuro**
+
+        Message #🃏│karuta-command
+
+
 
 ### Generate node command for working
 
@@ -111,7 +122,7 @@ generate results like **kjw node abcde** &#x20;
 
 the node which you want, just open **Nodes Overview** (`knodes`) and react 👷‍♂️
 
-![type number of node which you want](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (6).png>)
 
 ### Bits Summation (Premium)
 
