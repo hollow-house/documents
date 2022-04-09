@@ -8,21 +8,19 @@ description: Bot Commands
 
 | Command                                              | Description                                  | Example     |
 | ---------------------------------------------------- | -------------------------------------------- | ----------- |
-| **/math**                                            | Calulator                                    | /math 2+2   |
 | <p><strong>/karuta</strong><br><strong></strong></p> | To see what's the bot support karuta feature | /karuta     |
 | **/version**                                         | To see a version of the bot                  | /version    |
 | **/support**                                         | the way to contact support                   | /support    |
-| **/me (need add more content)**                      | Check your user information                  | /me         |
 | **/ping**                                            | Show bot's latency                           | /ping       |
 | **/help**                                            | Show Bot Help                                | /help       |
 | **/serverinfo**                                      | Show your server's configuration info        | /serverinfo |
 
 ### Karuta Commands
 
-| Command   | Description                                                                                                       | Example                               |
-| --------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| **/role** | <p>Add role by yourself</p><p>Available for (<strong>wish watch</strong>, <strong>server drop watch</strong>)</p> | /role server-drop-watch active:True   |
-| **estar** | add drop message to starboard manually                                                                            | reply drop message and type **estar** |
+| Command   | Description                                                                                                                     | Example                               |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| **/role** | <p>Add a role by yourself</p><p>Available for (<strong>wish watch</strong>, <strong>server drop watch, event drop</strong>)</p> | /role server-drop-watch active:True   |
+| **estar** | add drop message to starboard manually                                                                                          | reply drop message and type **estar** |
 
 ### Admin Commands
 
@@ -34,5 +32,6 @@ description: Bot Commands
 | **/starboard-status**            | Checking Starboard Server Config                                                                | /starboard-status                                             |
 | **/set server-drop-watch**       | Enable or disable the **server drop** ping in your server.                                      | /set server-drop-watch active:True                            |
 | /**set wishlist-drop-watch**     | Enable or disable the **wishlist drop** ping in your server.                                    | /set wishlist-drop-watch active:True                          |
+| /**set event-drop-watch**        | Enable or disable the **event drop** ping in your server.                                       | /set event-drop-watch active:True                             |
 | **/set pog-drop-ping**           | Enable or disable the **POG drop** ping role in your server.                                    | /set pog-drop-ping role:@Orange                               |
 
