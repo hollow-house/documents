@@ -48,7 +48,7 @@ It displays 1. Starboard Channel 2. is active for auto 3. minimum wishlist which
 
 1. Type `/set starboard` **select** #channel which you want to make starboard channel.
 
-![](<.gitbook/assets/image (13).png>)
+![](<.gitbook/assets/image (13) (1).png>)
 
 2\. Then reply to the **Karuta Drop** message with `estar`.
 
@@ -75,7 +75,7 @@ It displays 1. Starboard Channel 2. is active for auto 3. minimum wishlist which
    2. **set** active when you want to auto add.
    3. **set** number of minimum wishlists which you want to add.
 
-![](<.gitbook/assets/image (13).png>)
+![](<.gitbook/assets/image (13) (1).png>)
 
 ### Searching
 
@@ -169,3 +169,24 @@ And when you want to disable just use **/role server-drop-watch active:False**
 
 If you want to disable ping in your server  **/set server-drop-watch active:False**&#x20;
 {% endhint %}
+
+### Event Drop Ping
+
+Event drop from Karuta&#x20;
+
+For example => **Easter festival 2022**&#x20;
+
+![](<.gitbook/assets/image (13).png>)
+
+{% hint style="info" %}
+**For User:** You can use **/role event-drop-watch active:True** (slash command) to enable
+
+And when you want to disable just use **/role event-drop-watch active:False**
+{% endhint %}
+
+{% hint style="warning" %}
+**For ADMIN:** First of all admin use enable this feature in the server by **/set event-drop-watch active:True**&#x20;
+
+If you want to disable ping in your server  **/set event-drop-watch active:False**&#x20;
+{% endhint %}
+
