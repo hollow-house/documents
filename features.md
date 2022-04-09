@@ -93,7 +93,7 @@ You can search by **`keyword`** for getting code, just open and react 🔎
 * Type `genshin` you will get `4ft5jp`
 * Type `2492` you will get `4fgs4j`
 
-### Searching For Get **Karuta's** Content
+### Searching To Get **Karuta's** Content
 
 {% hint style="warning" %}
 For **non-premium** servers, you must add the 👱‍♂️ reaction manually.
@@ -110,9 +110,7 @@ It seems like Searching to Code but You will get **Karuta's** **Content** Instea
   * &#x20;♡0 · **9k2rxs** · ★☆☆☆ · #31954 · ◈1 · Tokyo Magnitude 8.0 · **Rescue Volunteer**
 *   Type `Materia` you will get&#x20;
 
-    *   ♡2 · **9kkm26** · ☆☆☆☆ · #3046  · ◈3 · Frame Arms Girl · **Materia Kuro**
-
-        Message #🃏│karuta-command
+    * ♡2 · **9kkm26** · ☆☆☆☆ · #3046  · ◈3 · Frame Arms Girl · **Materia Kuro**
 
 
 
