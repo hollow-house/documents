@@ -118,11 +118,11 @@ It seems like Searching to Code but You will get **Karuta's** **Content** Instea
 
 ### Generate node command for working
 
-generate results like **kjw node abcde** &#x20;
+generate results like **kjn \<node> abcde** &#x20;
 
 the node which you want, just open **Nodes Overview** (`knodes`) and react 👷‍♂️
 
-![](<.gitbook/assets/image (6).png>)
+![](<.gitbook/assets/image (15).png>)
 
 ### Bits Summation (Premium)
 
@@ -158,7 +158,7 @@ If you want to disable ping in your server  **/set wishlist-drop-watch active:Fa
 
 ### Server Drop Ping
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (3) (1).png>)
 
 {% hint style="info" %}
 **For User:** You can use **/role server-drop-watch active:True** (slash command) to enable

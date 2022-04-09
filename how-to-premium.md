@@ -24,9 +24,12 @@
 
 ### **Payment**
 
-1.  Donate me (minimum 2$, thanks if you give more)
+1. Donate me (minimum 2$, thanks if you give more)
 
-    **via** PayPal [https://www.paypal.com/paypalme/einguht](https://www.paypal.com/paypalme/einguht) (**preferred)**&#x20;
 
-    **via** [https://ko-fi.com/zeing](https://ko-fi.com/zeing)
-2. Give me a 15 ticket in [#bot-lobby](https://discord.gg/zTcaPARjfb)
+
+**via** PayPal [https://www.paypal.com/paypalme/einguht](https://www.paypal.com/paypalme/einguht) (**preferred)**&#x20;
+
+**via** [https://ko-fi.com/zeing](https://ko-fi.com/zeing)
+
+1. Give me a 15 ticket in [#bot-lobby](https://discord.gg/zTcaPARjfb)
