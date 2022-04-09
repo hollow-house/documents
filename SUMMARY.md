@@ -4,6 +4,7 @@
 * [Getting Started](getting-started.md)
 * [Features](features.md)
 * [Commands](commands.md)
+* [How to Premium](how-to-premium.md)
 * [FAQ](faq.md)
 
 ## Related Link
