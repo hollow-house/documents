@@ -21,3 +21,13 @@ use `/serverinfo` to check the server's configuration
 use `/set` to set server's configuration
 
 ![](<.gitbook/assets/image (16).png>)
+
+### I can't use `/role`
+
+![error](<.gitbook/assets/image (3).png>)
+
+Only the admin fix this, So&#x20;
+
+**How to fix it?**
+
+Reorder role in server, order bot role above the role which can't assign.

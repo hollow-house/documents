@@ -156,7 +156,7 @@ If you want to disable ping in your server  **/set wishlist-drop-watch active:Fa
 
 ### Server Drop Ping
 
-![](<.gitbook/assets/image (3) (1).png>)
+![](<.gitbook/assets/image (3) (1) (1).png>)
 
 {% hint style="info" %}
 **For User:** You can use **/role server-drop-watch active:True** (slash command) to enable
