@@ -17,17 +17,33 @@ show a wishlist of cards if somebody drops a card over **100 WL**. (You can conf
 #### How's work?
 
 * subscribe your server to premium.
-* Don't do setup anything for this feature, The bot will ping you when **POG** drop (**100 WL+ now**).
+* If you haven't setup anything for this feature, The bot will ping you when **POG** drop only message (Default started at **100 WL** you can config it **** ).
+
+**How to Setup**
+
+1. type `/set pog-drop-ping role: @A LOT OF WISHLISTS wishlist: 100 drop-mode: Server Only`
+
+![](<.gitbook/assets/image (6).png>)
 
 {% hint style="warning" %}
-How's different between **Server Drop** and **User Drop.**
+What's **POG DROP MODE**?
 
-* **Server Drop =>** Ping with Role (<mark style="color:green;">**@A LOT OF WISHLISTS**</mark>)
-* **User Drop =>** Only **** Ping&#x20;
+**Server only** Mode (By Default)
+
+* **Server Drop =>** Ping message with Role (<mark style="color:green;">**@A LOT OF WISHLISTS**</mark>)
+* **User Drop =>** Only **** Ping message
+* **User Drop POG > 1 =>** Ping message with Role
+
+**All** Mode
+
+* **Server Drop =>** Ping message with Role (<mark style="color:green;">**@A LOT OF WISHLISTS**</mark>)
+* **User Drop =>** Ping message with Role
+
+
 {% endhint %}
 
 {% hint style="info" %}
-**TIP:** about <mark style="color:green;">**@A LOT OF WISHLISTS**</mark>** ** Role. You can give it to members for getting ping when **Server Drop.**
+**TIP:** about <mark style="color:green;">**@A LOT OF WISHLISTS**</mark>** ** Role. You can give it to members for getting a ping when **Server Drop.**
 
 **You can change role which you want to ping**
 {% endhint %}
@@ -46,7 +62,7 @@ It displays 1. Starboard Channel 2. is active for auto 3. minimum wishlist which
 
 **How to Setup**
 
-1. Type `/set starboard` **select** #channel which you want to make starboard channel.
+1. Type `/set starboard` **select** #channel which you want to make a starboard channel.
 
 ![](<.gitbook/assets/image (13) (1).png>)
 
