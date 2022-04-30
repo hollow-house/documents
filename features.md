@@ -206,3 +206,12 @@ And when you want to disable just use **/role event-drop-watch active:False**
 If you want to disable ping in your server  **/set event-drop-watch active:False**&#x20;
 {% endhint %}
 
+
+
+### Frame Shop Generate Command
+
+1. Go to the page which you want to buy&#x20;
+2. React shopping card emoji
+3. get command
+
+![](<.gitbook/assets/image (8).png>)
