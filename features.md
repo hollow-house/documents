@@ -99,8 +99,8 @@ Ping the role when the series drop
 {% hint style="info" %}
 `Addition of`` `**`/series-watcher show`**` ``command`
 
-* keyword => filter series list by keyword
-* configured => show series list by configured
+* keyword (optional) => filter series list by keyword
+* configured  (optional) => show series list by configured
   * configured = true => show only series which configured
   * configured = false => show only series which unconfigured
 
