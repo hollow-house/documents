@@ -96,6 +96,12 @@ Ping the role when the series drop
 
 ![](<.gitbook/assets/image (12).png>)
 
+**How to remove ping role of series**
+
+type `/series-watcher update id: 31` without the role to remove
+
+![](<.gitbook/assets/image (14).png>)
+
 {% hint style="info" %}
 `Addition of`` `**`/series-watcher show`**` ``command`
 
@@ -127,7 +133,7 @@ It displays 1. Starboard Channel 2. is active for auto 3. minimum wishlist which
 
 3\. See in **Starboard** channel which you selected
 
-![](<.gitbook/assets/image (14).png>)
+![](<.gitbook/assets/image (14) (1).png>)
 
 ### **Auto Add to Starboard (Premium)**
 
