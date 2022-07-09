@@ -8,7 +8,7 @@ No setting for this, See more detail at[ https://hollow.zeing.xyz/features#pog-d
 
 Allow **Use Application Commands** in Channel Permissions of channel
 
-![](<.gitbook/assets/image (9).png>)
+![](<.gitbook/assets/image (9) (1).png>)
 
 ### How to check configuration?
 
@@ -20,7 +20,7 @@ use `/serverinfo` to check the server's configuration
 
 use `/set` to set server's configuration
 
-![](<.gitbook/assets/image (16).png>)
+![](<.gitbook/assets/image (16) (1).png>)
 
 ### I can't use `/role`
 
