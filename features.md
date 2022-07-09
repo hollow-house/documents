@@ -23,8 +23,6 @@ description: Features of bot
 | Auto Starboard                                          |         :no\_entry:        | :ballot\_box\_with\_check: |
 | Get Content Searching (Card Collection) (auto reaction) |         :no\_entry:        | :ballot\_box\_with\_check: |
 
-**``**
-
 ### **POG Drop Ping (Premium)**
 
 show a wishlist of cards if somebody drops a card over **100 WL**. (You can config minimum wl for ping)
@@ -38,7 +36,7 @@ show a wishlist of cards if somebody drops a card over **100 WL**. (You can conf
 #### How's work?
 
 * subscribe your server to premium.
-* If you haven't setup anything for this feature, The bot will ping you when **POG** drop only message (Default started at **100 WL** you can config it **** ).
+* If you haven't set-up anything for this feature, The bot will ping you when **POG** drop only message (Default started at **100 WL** you can config it **** ).
 
 **How to Setup**
 
@@ -70,6 +68,44 @@ What's **POG DROP MODE**?
 {% endhint %}
 
 
+
+### **Series Drop Ping (Premium)**
+
+Ping the role when the series drop
+
+{% hint style="info" %}
+**How to subscribe premium**, Contact **zeing#6498** in [Support Server](https://discord.gg/zTcaPARjfb).
+{% endhint %}
+
+![](.gitbook/assets/IMG\_7314.jpg)
+
+#### How's work?
+
+* subscribe your server to premium.
+* You have to set-up the role which you want to ping for this series.
+
+**How to Setup**
+
+1. Type `/series-watcher show` See Series list with config.
+
+![](<.gitbook/assets/image (7).png>)
+
+2\. Copy ID which you want to config role ping&#x20;
+
+3\. type `/series-watcher update id:31 role:@Purple` to set role @Purple to **Baki the Grappler series**
+
+![](<.gitbook/assets/image (12).png>)
+
+{% hint style="info" %}
+`Addition of`` `**`/series-watcher show`**` ``command`
+
+* keyword => filter series list by keyword
+* configured => show series list by configured
+  * configured = true => show only series which configured
+  * configured = false => show only series which unconfigured
+
+
+{% endhint %}
 
 ### **Starboard**
 
@@ -175,7 +211,7 @@ it will sum all nodes
 
 ### Wishlist Ping
 
-![](<.gitbook/assets/image (12).png>)
+![](<.gitbook/assets/image (12) (1).png>)
 
 {% hint style="info" %}
 **For User:** You can use **/role wishlist-drop-watch active:True** (slash command) to enable
