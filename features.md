@@ -4,24 +4,24 @@ description: Features of bot
 
 # Features
 
-| Feature                                                 |           Normal           |           Premium          |
-| ------------------------------------------------------- | :------------------------: | :------------------------: |
-| Server Drop Ping                                        | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| Wishlist Ping                                           | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| Event Prop                                              | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| Searching (Card Collection)                             | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| Searching (Inventory)                                   | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| Searching (Affection List)                              | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| Searching (Dye Collection)                              | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| Node work generator                                     | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| Shop command generator                                  | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| Starboard (Manual)                                      | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| Report Bug                                              | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| POG Drop Ping                                           |         :no\_entry:        | :ballot\_box\_with\_check: |
-| Series Ping                                             |         :no\_entry:        | :ballot\_box\_with\_check: |
-| Bits Summation (auto reaction)                          |         :no\_entry:        | :ballot\_box\_with\_check: |
-| Auto Starboard                                          |         :no\_entry:        | :ballot\_box\_with\_check: |
-| Get Content Searching (Card Collection) (auto reaction) |         :no\_entry:        | :ballot\_box\_with\_check: |
+| Feature                     |           Normal           |           Premium          |
+| --------------------------- | :------------------------: | :------------------------: |
+| Server Drop Ping            | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
+| Wishlist Ping               | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
+| Event Prop                  | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
+| Searching (Card Collection) | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
+| Searching (Inventory)       | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
+| Searching (Affection List)  | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
+| Searching (Dye Collection)  | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
+| Node work generator         | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
+| Shop command generator      | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
+| Starboard (Manual)          | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
+| Report Bug                  | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
+| POG Drop Ping               |         :no\_entry:        |         :no\_entry:        |
+| Series Ping                 |         :no\_entry:        |         :no\_entry:        |
+| Bits Summation              | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
+| Auto Starboard              |         :no\_entry:        |         :no\_entry:        |
+| Get Content Searching       | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
 
 ### **POG Drop Ping (Premium)**
 
