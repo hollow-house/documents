@@ -4,7 +4,7 @@
 * [Getting Started](getting-started.md)
 * [Features](features.md)
 * [Commands](commands.md)
-* [How to Premium](how-to-premium.md)
+* [How to Premium (Deprecated)](how-to-premium-deprecated.md)
 * [FAQ](faq.md)
 
 ## Related Link
