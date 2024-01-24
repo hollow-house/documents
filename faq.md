@@ -8,7 +8,11 @@ No setting for this, See more detail at[ https://hollow.zeing.xyz/features#pog-d
 
 Allow **Use Application Commands** in Channel Permissions of channel
 
-![](<.gitbook/assets/image (9) (1).png>)
+<div align="left">
+
+<img src=".gitbook/assets/image (9) (1).png" alt="">
+
+</div>
 
 ### How to check configuration?
 

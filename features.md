@@ -4,24 +4,7 @@ description: Features of bot
 
 # Features
 
-| Feature                     |           Normal           |           Premium          |
-| --------------------------- | :------------------------: | :------------------------: |
-| Server Drop Ping            | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| Wishlist Ping               | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| Event Prop                  | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| Searching (Card Collection) | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| Searching (Inventory)       | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| Searching (Affection List)  | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| Searching (Dye Collection)  | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| Node work generator         | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| Shop command generator      | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| Starboard (Manual)          | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| Report Bug                  | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| POG Drop Ping               |         :no\_entry:        |         :no\_entry:        |
-| Series Ping                 |         :no\_entry:        |         :no\_entry:        |
-| Bits Summation              | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
-| Auto Starboard              |         :no\_entry:        |         :no\_entry:        |
-| Get Content Searching       | :ballot\_box\_with\_check: | :ballot\_box\_with\_check: |
+<table><thead><tr><th width="318.3333333333333">Feature</th><th align="center">Normal</th><th align="center">Premium</th></tr></thead><tbody><tr><td>Server Drop Ping</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td></tr><tr><td>Wishlist Ping</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td></tr><tr><td>Event Prop</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td></tr><tr><td>Searching (Card Collection)</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td></tr><tr><td>Searching (Inventory)</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td></tr><tr><td>Searching (Affection List)</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td></tr><tr><td>Searching (Dye Collection)</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td></tr><tr><td>Node work generator</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td></tr><tr><td>Shop command generator</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td></tr><tr><td>Starboard (Manual)</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td></tr><tr><td>Report Bug</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td></tr><tr><td>POG Drop Ping</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="26d4">⛔</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td></tr><tr><td>Series Ping</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="26d4">⛔</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td></tr><tr><td>Bits Summation</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td></tr><tr><td>Auto Starboard</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="26d4">⛔</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td></tr><tr><td>Get Content Searching</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2611">☑</span></td></tr></tbody></table>
 
 ### **POG Drop Ping (Premium)**
 
@@ -36,7 +19,7 @@ show a wishlist of cards if somebody drops a card over **100 WL**. (You can conf
 #### How's work?
 
 * subscribe your server to premium.
-* If you haven't set-up anything for this feature, The bot will ping you when **POG** drop only message (Default started at **100 WL** you can config it **** ).
+* If you haven't set-up anything for this feature, The bot will ping you when **POG** drop only message (Default started at **100 WL** you can config it ).
 
 **How to Setup**
 
@@ -50,7 +33,7 @@ What's **POG DROP MODE**?
 **Server only** Mode (By Default)
 
 * **Server Drop =>** Ping message with Role (<mark style="color:green;">**@A LOT OF WISHLISTS**</mark>)
-* **User Drop =>** Only **** Ping message
+* **User Drop =>** Only Ping message
 * **User Drop POG > 1 =>** Ping message with Role
 
 **All** Mode
@@ -62,7 +45,7 @@ What's **POG DROP MODE**?
 {% endhint %}
 
 {% hint style="info" %}
-**TIP:** about <mark style="color:green;">**@A LOT OF WISHLISTS**</mark>** ** Role. You can give it to members for getting a ping when **Server Drop.**
+**TIP:** about <mark style="color:green;">**@A LOT OF WISHLISTS**</mark> Role. You can give it to members for getting a ping when **Server Drop.**
 
 **You can change role which you want to ping**
 {% endhint %}

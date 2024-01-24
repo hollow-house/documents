@@ -6,32 +6,13 @@ description: Bot Commands
 
 ### General Commands
 
-| Command                                              | Description                                  | Example     |
-| ---------------------------------------------------- | -------------------------------------------- | ----------- |
-| <p><strong>/karuta</strong><br><strong></strong></p> | To see what's the bot support karuta feature | /karuta     |
-| **/version**                                         | To see a version of the bot                  | /version    |
-| **/support**                                         | the way to contact support                   | /support    |
-| **/ping**                                            | Show bot's latency                           | /ping       |
-| **/help**                                            | Show Bot Help                                | /help       |
-| **/serverinfo**                                      | Show your server's configuration info        | /serverinfo |
+<table><thead><tr><th width="215.25">Command</th><th width="325.3333333333333">Description</th><th>Example</th></tr></thead><tbody><tr><td><strong>/karuta</strong><br></td><td>To see what's the bot support karuta feature</td><td>/karuta</td></tr><tr><td><strong>/version</strong></td><td>To see a version of the bot</td><td>/version</td></tr><tr><td><strong>/support</strong></td><td>the way to contact support</td><td>/support</td></tr><tr><td><strong>/ping</strong></td><td>Show bot's latency</td><td>/ping</td></tr><tr><td><strong>/help</strong></td><td>Show Bot Help</td><td>/help</td></tr><tr><td><strong>/serverinfo</strong></td><td>Show your server's configuration info</td><td>/serverinfo</td></tr></tbody></table>
 
 ### Karuta Commands
 
-| Command   | Description                                                                                                                     | Example                               |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| **/role** | <p>Add a role by yourself</p><p>Available for (<strong>wish watch</strong>, <strong>server drop watch, event drop</strong>)</p> | /role server-drop-watch active:True   |
-| **estar** | add drop message to starboard manually                                                                                          | reply drop message and type **estar** |
+<table><thead><tr><th width="207.25">Command</th><th width="325.3333333333333">Description</th><th>Example</th></tr></thead><tbody><tr><td><strong>/role</strong></td><td><p>Add a role by yourself</p><p>Available for (<strong>wish watch</strong>, <strong>server drop watch, event drop</strong>)</p></td><td>/role server-drop-watch active:True</td></tr><tr><td><strong>estar</strong></td><td>add drop message to starboard manually</td><td>reply drop message and type <strong>estar</strong></td></tr></tbody></table>
 
 ### Admin Commands
 
-| Command                          | Description                                                                                     | Example                                                       |
-| -------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| **/remaining**                   | Check server premium plan remaining                                                             | /remaining                                                    |
-| **/set starboard (Premium)**     | Set up starboard for premium                                                                    | /set starboard channel:#🌟│starboard active:True wishlist:200 |
-| **/set starboard (Non-Premium)** | <p>Set up starboard, Can set channel only</p><p>Use <code>estar</code> for add to the board</p> | <p>/set starboard </p><p>channel:#🌟│starboard </p>           |
-| **/starboard-status**            | Checking Starboard Server Config                                                                | /starboard-status                                             |
-| **/set server-drop-watch**       | Enable or disable the **server drop** ping in your server.                                      | /set server-drop-watch active:True                            |
-| /**set wishlist-drop-watch**     | Enable or disable the **wishlist drop** ping in your server.                                    | /set wishlist-drop-watch active:True                          |
-| /**set event-drop-watch**        | Enable or disable the **event drop** ping in your server.                                       | /set event-drop-watch active:True                             |
-| **/set pog-drop-ping**           | Enable or disable the **POG drop** ping role in your server.                                    | /set pog-drop-ping role:@Orange                               |
+<table><thead><tr><th width="207.25">Command</th><th width="325.3333333333333">Description</th><th>Example</th></tr></thead><tbody><tr><td><strong>/remaining</strong></td><td>Check server premium plan remaining</td><td>/remaining</td></tr><tr><td><strong>/set starboard (Premium)</strong></td><td>Set up starboard for premium</td><td>/set starboard channel:#🌟│starboard active:True wishlist:200</td></tr><tr><td><strong>/set starboard (Non-Premium)</strong></td><td><p>Set up starboard, Can set channel only</p><p>Use <code>estar</code> for add to the board</p></td><td><p>/set starboard </p><p>channel:#🌟│starboard </p></td></tr><tr><td><strong>/starboard-status</strong></td><td>Checking Starboard Server Config</td><td>/starboard-status</td></tr><tr><td><strong>/set server-drop-watch</strong></td><td>Enable or disable the <strong>server drop</strong> ping in your server.</td><td>/set server-drop-watch active:True</td></tr><tr><td>/<strong>set wishlist-drop-watch</strong></td><td>Enable or disable the <strong>wishlist drop</strong> ping in your server.</td><td>/set wishlist-drop-watch active:True</td></tr><tr><td>/<strong>set event-drop-watch</strong></td><td>Enable or disable the <strong>event drop</strong> ping in your server.</td><td>/set event-drop-watch active:True</td></tr><tr><td><strong>/set pog-drop-ping</strong></td><td>Enable or disable the <strong>POG drop</strong> ping role in your server.</td><td>/set pog-drop-ping role:@Orange</td></tr></tbody></table>
 

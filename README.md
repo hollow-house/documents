@@ -17,20 +17,19 @@ Bot need use High-Performance Server, It makes Bot process faster than now
 * Auto Karuta Starboard
 * Ping POG Drop
 * Karuta Searching
-* Bit Summition
+* Bit Summation
 
 {% hint style="info" %}
-**Bot Name**              :  ****  Hollow
+**Bot Name**              :  Hollow
 
-**Developer**             : **** zeing#6498
+**Developer**             : zeing#5555
 
-**Listening**               :  ****  / (Slash Command)
+**Listening**               :  / (Slash Command) and e (Prefix)
 
-**Support Server**  : [HEE YAI SANDBOX](https://discord.gg/zTcaPARjfb)
+**Support Server**  :  [Juice Box](https://top.gg/servers/853705138078220318)
 
 **Status**                     : Online (Beta)
 
 
 {% endhint %}
 
-****

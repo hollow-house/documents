@@ -1,4 +1,4 @@
-# How to Premium
+# How to Premium (CLOSED)
 
 ### How to subscribe premium plan
 
@@ -20,7 +20,7 @@
 
 **\*1 time per 28 days**
 
-****
+
 
 ### **Payment**
 
