@@ -19,6 +19,7 @@
   * [Starboard (Normal)](karuta-features/starboard-normal-and-auto-add-to-starboard-premium.md)
   * [Auto Add to Starboard (Premium)](karuta-features/starboard/auto-add-to-starboard-premium.md)
 * [Generate node command](karuta-features/generate-node-command.md)
+* [Frame Shop Generate Command](karuta-features/frame-shop-generate-command.md)
 
 ## 💜 Sofi Features
 
@@ -39,4 +40,3 @@
 * [Invite Hollow](https://top.gg/bot/865167088438739024)
 * [Donate =/\\=](https://ko-fi.com/zeing)
 * [Vote (top.gg)](https://top.gg/bot/865167088438739024/vote)
-* [Features](related-link/features.md)
