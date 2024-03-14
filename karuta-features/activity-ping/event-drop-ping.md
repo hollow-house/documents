@@ -1,4 +1,4 @@
-# Copy of Wishlist Drop Ping
+# Event Drop Ping
 
 <figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 

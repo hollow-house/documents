@@ -11,7 +11,7 @@
 * [Activity Ping](karuta-features/activity-ping/README.md)
   * [Server Drop Ping](karuta-features/activity-ping/server-drop-ping.md)
   * [Wishlist Drop Ping](karuta-features/activity-ping/wishlist-drop-ping.md)
-  * [Copy of Wishlist Drop Ping](karuta-features/activity-ping/copy-of-wishlist-drop-ping.md)
+  * [Event Drop Ping](karuta-features/activity-ping/event-drop-ping.md)
 * [Card Drop Analysis (Premium)](karuta-features/card-drop-analysis-premium.md)
 * [Bits Summation](karuta-features/bits-summation.md)
 * [Searching](karuta-features/searching.md)
@@ -22,7 +22,7 @@
 
 ## 💜 Sofi Features
 
-* [Activity Ping](sofi-features/activity-ping.md)
+* [Activity Ping](karuta-features/activity-ping.md)
 * [Page 1](sofi-features/page-1.md)
 
 ## MISC
