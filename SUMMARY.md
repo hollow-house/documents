@@ -2,11 +2,20 @@
 
 * [What is Hollow Bot?](README.md)
 * [Getting Started](getting-started.md)
-* [Karuta Features](karuta-features/README.md)
-  * [Card Drop Analysis (Premium)](karuta-features/card-drop-analysis-premium.md)
-  * [Starboard (Normal) & Auto Add to Starboard (Premium)](karuta-features/starboard-normal-and-auto-add-to-starboard-premium.md)
-  * [Searching](karuta-features/searching.md)
-  * [Bits Summation](karuta-features/bits-summation.md)
+
+## 🔦 Karuta Features
+
+* [Overview](karuta-features/overview.md)
+* [Card Drop Analysis (Premium)](karuta-features/card-drop-analysis-premium.md)
+* [Bits Summation](karuta-features/bits-summation.md)
+* [Activity Ping](karuta-features/activity-ping.md)
+* [Searching](karuta-features/searching.md)
+* [Starboard](karuta-features/starboard/README.md)
+  * [Starboard (Normal)](karuta-features/starboard/starboard-normal.md)
+  * [Auto Add to Starboard (Premium)](karuta-features/starboard/auto-add-to-starboard-premium.md)
+
+***
+
 * [Page](page.md)
 * [Features](features.md)
 * [Commands](commands.md)

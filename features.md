@@ -190,7 +190,7 @@ the node which you want, just open **Nodes Overview** (`knodes`) and react ðŸ‘·â
 For **non-premium** servers, you must add the :printer: reaction manually.
 {% endhint %}
 
-![](<.gitbook/assets/image (4) (1) (1).png>)
+![](<.gitbook/assets/image (4) (1) (1) (1).png>)
 
 {% hint style="info" %}
 **TIP:** If you want to sum all nodes (2 pages) just react :printer: then change to 2nd page
@@ -218,7 +218,7 @@ If you want to disable ping in your server  **/set wishlist-drop-watch active:Fa
 
 ### Server Drop Ping
 
-![](<.gitbook/assets/image (3) (1) (1).png>)
+![](<.gitbook/assets/image (3) (1) (1) (1).png>)
 
 {% hint style="info" %}
 **For User:** You can use **/role server-drop-watch active:True** (slash command) to enable
