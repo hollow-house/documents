@@ -6,6 +6,10 @@ description: >-
 
 # ✨ Multiple Glows Testing
 
+{% hint style="info" %}
+Read the Full Document at [https://discord.com/channels/853705138078220318/1211200123149885500](https://discord.com/channels/853705138078220318/1211200123149885500)
+{% endhint %}
+
 ### For Website
 
 * Visit to https://hollow.zeing.xyz/glow-testing

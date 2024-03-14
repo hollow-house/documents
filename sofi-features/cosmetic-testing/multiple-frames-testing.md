@@ -6,6 +6,10 @@ description: >-
 
 # 🖼️ Multiple Frames Testing
 
+{% hint style="info" %}
+Read the Full Document at [https://discord.com/channels/853705138078220318/1210116850055389244](https://discord.com/channels/853705138078220318/1210116850055389244)
+{% endhint %}
+
 ### For Website (2D Image only)
 
 * Visit to [https://hollow.zeing.xyz/frame-testing](https://hollow.zeing.xyz/frame-testing)

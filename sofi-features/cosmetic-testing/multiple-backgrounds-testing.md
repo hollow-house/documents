@@ -6,6 +6,10 @@ description: >-
 
 # 🎴 Multiple Backgrounds Testing
 
+{% hint style="info" %}
+Read the Full Document at [https://discord.com/channels/853705138078220318/1210564272724377651](https://discord.com/channels/853705138078220318/1210564272724377651)
+{% endhint %}
+
 ### For Website (3D Image only)
 
 * Visit to [https://hollow.zeing.xyz/background-testing](https://hollow.zeing.xyz/background-testing)
