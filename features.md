@@ -14,7 +14,7 @@ show a wishlist of cards if somebody drops a card over **100 WL**. (You can conf
 **How to subscribe premium**, Contact **zeing#6498** in [Support Server](https://discord.gg/zTcaPARjfb).
 {% endhint %}
 
-![](<../.gitbook/assets/image (7).png>)
+![](<.gitbook/assets/image (13).png>)
 
 #### How's work?
 
@@ -25,7 +25,7 @@ show a wishlist of cards if somebody drops a card over **100 WL**. (You can conf
 
 1. type `/set pog-drop-ping role: @A LOT OF WISHLISTS wishlist: 100 drop-mode: Server Only`
 
-![](<../.gitbook/assets/image (6) (2).png>)
+![](<.gitbook/assets/image (6) (2).png>)
 
 {% hint style="warning" %}
 What's **POG DROP MODE**?
@@ -60,7 +60,7 @@ Ping the role when the series drop
 **How to subscribe premium**, Contact **zeing#6498** in [Support Server](https://discord.gg/zTcaPARjfb).
 {% endhint %}
 
-![](../.gitbook/assets/IMG\_7314.jpg)
+![](.gitbook/assets/IMG\_7314.jpg)
 
 #### How's work?
 
@@ -71,19 +71,19 @@ Ping the role when the series drop
 
 1. Type `/series-watcher show` See Series list with config.
 
-![](<../.gitbook/assets/image (8).png>)
+![](<.gitbook/assets/image (8) (1).png>)
 
 &#x20;2\. type `/series-watcher update series: Food Fantasy role: @Purple` to set role @Purple to **Food Fantasy series**
 
-![autocomplete show series](<../.gitbook/assets/image (5) (1).png>)
+![autocomplete show series](<.gitbook/assets/image (5) (1).png>)
 
-![add @purple role to Food Fantasy](<../.gitbook/assets/image (14).png>)
+![add @purple role to Food Fantasy](<.gitbook/assets/image (14).png>)
 
 **How to remove ping role of series**
 
 type `/series-watcher update series: Food Fanstasy` without the role to remove
 
-![remove the role for Food Fantasy](<../.gitbook/assets/image (9).png>)
+![remove the role for Food Fantasy](<.gitbook/assets/image (9) (2).png>)
 
 {% hint style="info" %}
 `Addition of`` `**`/series-watcher show`**` ``command`
@@ -103,20 +103,20 @@ type `/series-watcher update series: Food Fanstasy` without the role to remove
 
 It displays 1. Starboard Channel 2. is active for auto 3. minimum wishlist which you want to add to starboard
 
-![](<../.gitbook/assets/image (5) (1) (1).png>)
+![](<.gitbook/assets/image (5) (1) (1).png>)
 {% endhint %}
 
 **How to Setup**
 
 1. Type `/set starboard` **select** #channel which you want to make a starboard channel.
 
-![](<../.gitbook/assets/image (13) (1).png>)
+![](<.gitbook/assets/image (13) (1).png>)
 
 2\. Then reply to the **Karuta Drop** message with `estar`.
 
 3\. See in **Starboard** channel which you selected
 
-![](<../.gitbook/assets/image (14) (1) (1).png>)
+![](<.gitbook/assets/image (14) (1) (1).png>)
 
 ### **Auto Add to Starboard (Premium)**
 
@@ -127,7 +127,7 @@ It's easy to add starboard when **Karuta** drops a card that has a wishlist more
 
 It displays 1. Starboard Channel 2. is active for auto 3. minimum wishlist which you want to add to starboard
 
-![](<../.gitbook/assets/image (5) (1) (1).png>)
+![](<.gitbook/assets/image (5) (1) (1).png>)
 {% endhint %}
 
 **How to Setup**
@@ -137,7 +137,7 @@ It displays 1. Starboard Channel 2. is active for auto 3. minimum wishlist which
    2. **set** active when you want to auto add.
    3. **set** number of minimum wishlists which you want to add.
 
-![](<../.gitbook/assets/image (13) (1).png>)
+![](<.gitbook/assets/image (13) (1).png>)
 
 ### Searching
 
@@ -147,7 +147,7 @@ It displays 1. Starboard Channel 2. is active for auto 3. minimum wishlist which
 
 You can search by **`keyword`** for getting code, just open and react 🔎
 
-![](<../.gitbook/assets/image (11).png>)
+![](<.gitbook/assets/image (11) (1).png>)
 
 **For Example** =>
 
@@ -163,7 +163,7 @@ For **non-premium** servers, you must add the 👱‍♂️ reaction manually.
 
 It seems like Searching to Code but You will get **Karuta's** **Content** Instead
 
-![](<../.gitbook/assets/image (1) (2).png>)
+![](<.gitbook/assets/image (1) (2).png>)
 
 **For Example** =>
 
@@ -182,7 +182,7 @@ generate results like **kjn \<node> abcde** &#x20;
 
 the node which you want, just open **Nodes Overview** (`knodes`) and react 👷‍♂️
 
-![](<../.gitbook/assets/image (15) (1).png>)
+![](<.gitbook/assets/image (15) (1).png>)
 
 ### Bits Summation (Premium)
 
@@ -190,7 +190,7 @@ the node which you want, just open **Nodes Overview** (`knodes`) and react 👷�
 For **non-premium** servers, you must add the :printer: reaction manually.
 {% endhint %}
 
-![](<../.gitbook/assets/image (4) (1) (1).png>)
+![](<.gitbook/assets/image (4) (1) (1).png>)
 
 {% hint style="info" %}
 **TIP:** If you want to sum all nodes (2 pages) just react :printer: then change to 2nd page
@@ -200,7 +200,7 @@ it will sum all nodes
 
 ### Wishlist Ping
 
-![](<../.gitbook/assets/image (12) (1).png>)
+![](<.gitbook/assets/image (12) (1).png>)
 
 {% hint style="info" %}
 **For User:** You can use **/role wishlist-drop-watch active:True** (slash command) to enable
@@ -218,7 +218,7 @@ If you want to disable ping in your server  **/set wishlist-drop-watch active:Fa
 
 ### Server Drop Ping
 
-![](<../.gitbook/assets/image (3) (1) (1).png>)
+![](<.gitbook/assets/image (3) (1) (1).png>)
 
 {% hint style="info" %}
 **For User:** You can use **/role server-drop-watch active:True** (slash command) to enable
@@ -238,7 +238,7 @@ Event drop from Karuta&#x20;
 
 For example => **Easter festival 2022**&#x20;
 
-![](<../.gitbook/assets/image (13).png>)
+![](<.gitbook/assets/image (13) (2).png>)
 
 {% hint style="info" %}
 **For User:** You can use **/role event-drop-watch active:True** (slash command) to enable
@@ -260,4 +260,4 @@ If you want to disable ping in your server  **/set event-drop-watch active:False
 2. React shopping card emoji
 3. get command
 
-![](<../.gitbook/assets/image (8) (1).png>)
+![](<.gitbook/assets/image (8) (1) (2).png>)

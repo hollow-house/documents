@@ -6,7 +6,7 @@ description: >-
 
 # Starboard (Normal) & Auto Add to Starboard (Premium)
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 **How to Setup?**
 
@@ -16,9 +16,9 @@ description: >-
 * Set active when you want to auto-add.
 * Set the number of minimum wishlists that you want to add.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Starboard Setting</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Starboard Setting</p></figcaption></figure>
 
 **How to add a manual drop to the starboard?**
 
 * Choice Karuta Drop you would like to add
-* Reply that message with `estar`
+* Reply to that message with `estar`
