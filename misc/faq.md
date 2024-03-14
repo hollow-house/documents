@@ -1,10 +1,10 @@
 # FAQ
 
-### How to POG drop ping?
+### How to High wishlist drop ping?
 
-No setting for this, See more detail at[ https://hollow.zeing.xyz/features#pog-drop-ping-premium](https://hollow.zeing.xyz/features#pog-drop-ping-premium)
+This is for the premium plan only, See more details at [card-drop-analysis-premium.md](../karuta-features/card-drop-analysis-premium.md "mention")
 
-### **Why can't I use / (Slash command) in Channel?**
+### **Why can't I use / (Slash command) in the channel?**
 
 Allow **Use Application Commands** in Channel Permissions of channel
 
@@ -14,17 +14,15 @@ Allow **Use Application Commands** in Channel Permissions of channel
 
 </div>
 
-### How to check configuration?
+### How to check the configuration?
 
 use `/serverinfo` to check the server's configuration
 
-![](<../.gitbook/assets/image (2) (2).png>)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### How to set ping role?
 
-use `/set` to set server's configuration
-
-![](<../.gitbook/assets/image (16) (1).png>)
+you can config in `/serverconfig`
 
 ### I can't use `/role`
 
@@ -35,3 +33,8 @@ Only the admin fix this, So&#x20;
 **How to fix it?**
 
 Reorder role in server, order bot role above the role which can't assign.
+
+### Why does the bot not verify?
+
+I used to try it but unfortunately, I can't, then I changed my purpose to bot support only the main server and server that like the bot
+

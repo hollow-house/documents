@@ -42,6 +42,8 @@
 ## 📃 Term & Policy
 
 * [Refund Policy](term-and-policy/refund-policy.md)
+* [Privacy Policy](term-and-policy/privacy-policy.md)
+* [Terms of Service](term-and-policy/terms-of-service.md)
 
 ## 🔗 Related Link
 
