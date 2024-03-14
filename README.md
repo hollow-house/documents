@@ -27,13 +27,15 @@ Bot needs to use a High-Performance Server, Which makes the Bot process faster t
 {% hint style="info" %}
 **Bot Name**              :  Hollow
 
-**Developer**             : zeing
+**Developer**              :  zeing
 
 **Listening**               :  / (Slash Command) and e (Prefix)
 
-**Support Server**  :  [Juice Box](https://top.gg/servers/853705138078220318)
+**Support Server**   :  [Juice Box](https://top.gg/servers/853705138078220318)
 
-**Status**                     : Online
+**Status**                    : Online
+
+Started At.            : 2021
 
 
 {% endhint %}
