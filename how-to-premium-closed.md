@@ -5,10 +5,10 @@
 1. Join to Bot Support Server [(click here)](https://discord.gg/ActtuYWMfZ)
 2. Go to[ #contact-staff](https://discord.com/channels/853705138078220318/1052875870383132692)
 3. **Payment\*** (2 choices)
-   * 4$ or 35 :tickets:&#x20;
+   * 5$ or 50 :tickets:&#x20;
    * 2 Boosts server (Repeatable while you are booster)
 4. Give me your **Server ID**
-5. `/serverinfo` in your server for checking premium is active
+5. `/serverinfo` in your server to check premium is active
 6. checkout features & command page to see features that the bot provides
 7.  enjoy!!
 
