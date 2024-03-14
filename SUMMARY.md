@@ -23,8 +23,8 @@
 
 ## 💜 Sofi Features
 
-* [Activity Ping](sofi-features/activity-ping/README.md)
-  * [Captcha Ping](sofi-features/activity-ping/captcha-ping.md)
+* [Activity Ping](karuta-features/activity-ping.md)
+  * [Captcha Ping](sofi-features/page-1.md)
   * [Wishlist Drop Ping](sofi-features/activity-ping/wishlist-drop-ping.md)
   * [Series Drop Ping](sofi-features/activity-ping/series-drop-ping.md)
   * [Mini-Game Drop Ping](sofi-features/activity-ping/mini-game-drop-ping.md)
