@@ -47,7 +47,8 @@
 
 ## 🔗 Related Link
 
+* [Hollow Bot Website](https://hollow.zeing.xyz/)
 * [Support Server](https://discord.com/invite/ActtuYWMfZ)
-* [Invite Hollow](https://top.gg/bot/865167088438739024)
-* [Donate =/\\=](https://ko-fi.com/zeing)
-* [Vote (top.gg)](https://top.gg/bot/865167088438739024/vote)
+* [Invite Bot](https://top.gg/bot/865167088438739024)
+* [Donate ](https://ko-fi.com/zeing)
+* [Vote Bot](https://top.gg/bot/865167088438739024/vote)
