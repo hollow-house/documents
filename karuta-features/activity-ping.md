@@ -1,6 +1,6 @@
 # Activity Ping
 
-**How to Setup?**
+## How to setup?
 
 * use `/serverconfig`
 * go to **Ping Setting (Sofi)** menu

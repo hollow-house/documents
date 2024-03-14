@@ -20,14 +20,20 @@
   * [Auto Add to Starboard (Premium)](karuta-features/starboard/auto-add-to-starboard-premium.md)
 * [Generate node command](karuta-features/generate-node-command.md)
 * [Frame Shop Generate Command](karuta-features/frame-shop-generate-command.md)
+* [Series Wishlist Ping (Main Server Only)](karuta-features/series-wishlist-ping-main-server-only.md)
 
 ## 💜 Sofi Features
 
+* [💄 Cosmetic Testing](sofi-features/cosmetic-testing/README.md)
+  * [🖼️ Multiple Frames Testing](sofi-features/cosmetic-testing/multiple-frames-testing.md)
+  * [🎴 Multiple Backgrounds Testing](sofi-features/cosmetic-testing/multiple-backgrounds-testing.md)
+  * [✨ Multiple Glows Testing](sofi-features/cosmetic-testing/multiple-glows-testing.md)
 * [Activity Ping](karuta-features/activity-ping.md)
   * [Captcha Ping](sofi-features/page-1.md)
   * [Wishlist Drop Ping](sofi-features/activity-ping/wishlist-drop-ping.md)
   * [Series Drop Ping](sofi-features/activity-ping/series-drop-ping.md)
   * [Mini-Game Drop Ping](sofi-features/activity-ping/mini-game-drop-ping.md)
+* [Wishlist Ping (Main Server Only)](sofi-features/wishlist-ping-main-server-only.md)
 
 ## MISC
 
