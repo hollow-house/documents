@@ -35,7 +35,7 @@ Bot needs to use a High-Performance Server, Which makes the Bot process faster t
 
 **Status**                    : Online
 
-Started At.            : 2021
+**Since**                     : 2021
 
 
 {% endhint %}
