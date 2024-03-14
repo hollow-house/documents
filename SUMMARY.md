@@ -2,7 +2,10 @@
 
 * [What is Hollow Bot?](README.md)
 * [Getting Started](getting-started.md)
-* [Features](features.md)
+* [Features](features/README.md)
+  * [Karuta](features/karuta/README.md)
+    * [Card Drop Analysis (Premium)](features/karuta/card-drop-analysis-premium.md)
+    * [Starboard (Normal) & Auto Add to Starboard (Premium)](features/karuta/starboard-normal-and-auto-add-to-starboard-premium.md)
 * [Commands](commands.md)
 * [How to Premium (CLOSED)](how-to-premium-closed.md)
 * [FAQ](faq.md)

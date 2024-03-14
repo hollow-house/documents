@@ -18,7 +18,7 @@ Allow **Use Application Commands** in Channel Permissions of channel
 
 use `/serverinfo` to check the server's configuration
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (2) (2).png>)
 
 ### How to set ping role?
 
@@ -28,7 +28,7 @@ use `/set` to set server's configuration
 
 ### I can't use `/role`
 
-![error](<.gitbook/assets/image (3).png>)
+![error](<.gitbook/assets/image (3) (2).png>)
 
 Only the admin fix this, So&#x20;
 
