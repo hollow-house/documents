@@ -6,17 +6,17 @@ description: How to Setup
 
 ## STEP 1. Invite Bot
 
-Invite Hollow Bot to your server, this [link](https://discord.com/oauth2/authorize?client\_id=865167088438739024\&permissions=8\&scope=bot%20applications.commands) to invite
+Invite Hollow Bot to your server, this [link](https://top.gg/bot/865167088438739024) to invite
 
 {% hint style="info" %}
-**DO YOU HAVE QUESTION OR NEED HELP:** join the [Support Server](https://top.gg/servers/853705138078220318) to get help
+**DO YOU HAVE QUESTION OR NEED HELP:** join the [Support Server](https://discord.gg/ActtuYWMfZ) to get help
 {% endhint %}
 
 ## STEP 2. Checking Bot work
 
-Type `/help` or `/karuta` for checking **bot** works
+Type `/help` or `ehelp` for checking **bot** works
 
-## STEP 3. See Features which Bot provides
+## STEP 3. See the Features that the bot provides
 
 ## STEP 4. Subscribe Premium (Optional)
 
