@@ -3,7 +3,7 @@
 * [What is Hollow Bot?](README.md)
 * [Getting Started](getting-started.md)
 * [Commands](commands.md)
-* [How to Premium (CLOSED)](how-to-premium-closed.md)
+* [How to Premium](how-to-premium.md)
 
 ## 🔦 Karuta Features
 
