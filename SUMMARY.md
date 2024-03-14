@@ -6,6 +6,7 @@
   * [Card Drop Analysis (Premium)](karuta-features/card-drop-analysis-premium.md)
   * [Starboard (Normal) & Auto Add to Starboard (Premium)](karuta-features/starboard-normal-and-auto-add-to-starboard-premium.md)
   * [Searching](karuta-features/searching.md)
+  * [Bits Summation](karuta-features/bits-summation.md)
 * [Page](page.md)
 * [Features](features.md)
 * [Commands](commands.md)
