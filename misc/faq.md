@@ -38,3 +38,5 @@ Reorder role in server, order bot role above the role which can't assign.
 
 I used to try it but unfortunately, I can't, then I changed my purpose to bot support only the main server and server that like the bot
 
+**Therefore**, Bot will run smoothly and faster
+

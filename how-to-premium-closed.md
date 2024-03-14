@@ -14,7 +14,7 @@
 
 
 
-**\*1 time per 28 days**
+**\*1 time per 30 days**
 
 
 
