@@ -18,8 +18,8 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Starboard Setting</p></figcaption></figure>
 
-{% content-ref url="starboard-normal.md" %}
-[starboard-normal.md](starboard-normal.md)
+{% content-ref url="../starboard-normal-and-auto-add-to-starboard-premium.md" %}
+[starboard-normal-and-auto-add-to-starboard-premium.md](../starboard-normal-and-auto-add-to-starboard-premium.md)
 {% endcontent-ref %}
 
 {% content-ref url="auto-add-to-starboard-premium.md" %}

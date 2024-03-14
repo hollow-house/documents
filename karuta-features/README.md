@@ -6,6 +6,6 @@
 [card-drop-analysis-premium.md](card-drop-analysis-premium.md)
 {% endcontent-ref %}
 
-{% content-ref url="starboard/starboard-normal.md" %}
-[starboard-normal.md](starboard/starboard-normal.md)
+{% content-ref url="starboard-normal-and-auto-add-to-starboard-premium.md" %}
+[starboard-normal-and-auto-add-to-starboard-premium.md](starboard-normal-and-auto-add-to-starboard-premium.md)
 {% endcontent-ref %}

@@ -9,7 +9,7 @@ description: How to Setup
 Invite Hollow Bot to your server, this [link](https://top.gg/bot/865167088438739024) to invite
 
 {% hint style="info" %}
-**DO YOU HAVE QUESTION OR NEED HELP:** join the [Support Server](https://discord.gg/ActtuYWMfZ) to get help
+**DO YOU HAVE A QUESTION OR NEED HELP:** join the [Support Server](https://discord.gg/ActtuYWMfZ) to get help
 {% endhint %}
 
 ## STEP 2. Checking Bot work
