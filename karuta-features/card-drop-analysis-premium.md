@@ -10,7 +10,7 @@ description: >-
 **How to subscribe premium**, Contact **zeing** in Support Server.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### How's work?
 

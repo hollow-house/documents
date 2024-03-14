@@ -75,7 +75,7 @@ Ping the role when the series drop
 
 &#x20;2\. type `/series-watcher update series: Food Fantasy role: @Purple` to set role @Purple to **Food Fantasy series**
 
-![autocomplete show series](<../.gitbook/assets/image (5) (1).png>)
+![autocomplete show series](<../.gitbook/assets/image (5) (1) (1).png>)
 
 ![add @purple role to Food Fantasy](<../.gitbook/assets/image (14).png>)
 
@@ -103,7 +103,7 @@ type `/series-watcher update series: Food Fanstasy` without the role to remove
 
 It displays 1. Starboard Channel 2. is active for auto 3. minimum wishlist which you want to add to starboard
 
-![](<../.gitbook/assets/image (5) (1) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1) (1).png>)
 {% endhint %}
 
 **How to Setup**
@@ -127,7 +127,7 @@ It's easy to add starboard when **Karuta** drops a card that has a wishlist more
 
 It displays 1. Starboard Channel 2. is active for auto 3. minimum wishlist which you want to add to starboard
 
-![](<../.gitbook/assets/image (5) (1) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1) (1).png>)
 {% endhint %}
 
 **How to Setup**
@@ -190,7 +190,7 @@ the node which you want, just open **Nodes Overview** (`knodes`) and react ðŸ‘·â
 For **non-premium** servers, you must add the :printer: reaction manually.
 {% endhint %}
 
-![](<../.gitbook/assets/image (4) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1) (1) (1).png>)
 
 {% hint style="info" %}
 **TIP:** If you want to sum all nodes (2 pages) just react :printer: then change to 2nd page
@@ -218,7 +218,7 @@ If you want to disable ping in your server  **/set wishlist-drop-watch active:Fa
 
 ### Server Drop Ping
 
-![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1) (1) (1).png>)
 
 {% hint style="info" %}
 **For User:** You can use **/role server-drop-watch active:True** (slash command) to enable

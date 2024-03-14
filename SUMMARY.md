@@ -3,18 +3,27 @@
 * [What is Hollow Bot?](README.md)
 * [Getting Started](getting-started.md)
 * [Commands](commands.md)
-* [How to Premium](how-to-premium.md)
+* [How to Premium](how-to-premium-closed.md)
 
-## 🔦 Karuta Features
+## 🤎 Karuta Features
 
 * [Overview](karuta-features/README.md)
+* [Activity Ping](karuta-features/activity-ping/README.md)
+  * [Server Drop Ping](karuta-features/activity-ping/server-drop-ping.md)
+  * [Wishlist Drop Ping](karuta-features/activity-ping/wishlist-drop-ping.md)
+  * [Copy of Wishlist Drop Ping](karuta-features/activity-ping/copy-of-wishlist-drop-ping.md)
 * [Card Drop Analysis (Premium)](karuta-features/card-drop-analysis-premium.md)
 * [Bits Summation](karuta-features/bits-summation.md)
-* [Activity Ping](karuta-features/activity-ping.md)
 * [Searching](karuta-features/searching.md)
 * [Starboard](karuta-features/starboard/README.md)
   * [Starboard (Normal)](karuta-features/starboard-normal-and-auto-add-to-starboard-premium.md)
   * [Auto Add to Starboard (Premium)](karuta-features/starboard/auto-add-to-starboard-premium.md)
+* [Generate node command](karuta-features/generate-node-command.md)
+
+## 💜 Sofi Features
+
+* [Activity Ping](sofi-features/activity-ping.md)
+* [Page 1](sofi-features/page-1.md)
 
 ## MISC
 

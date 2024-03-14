@@ -20,5 +20,5 @@ Type `/help` or `ehelp` for checking **bot** works
 
 ## STEP 4. Subscribe Premium (Optional)
 
-* See detail in [how-to-premium.md](how-to-premium.md "mention")&#x20;
+* See detail in [how-to-premium-closed.md](how-to-premium-closed.md "mention")&#x20;
 
