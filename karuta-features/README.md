@@ -9,3 +9,7 @@
 {% content-ref url="starboard-normal-and-auto-add-to-starboard-premium.md" %}
 [starboard-normal-and-auto-add-to-starboard-premium.md](starboard-normal-and-auto-add-to-starboard-premium.md)
 {% endcontent-ref %}
+
+{% content-ref url="dye-scanner-premium.md" %}
+[dye-scanner-premium.md](dye-scanner-premium.md)
+{% endcontent-ref %}

@@ -1,6 +1,6 @@
 # How to Premium
 
-### How to Subscribe Premium Plan
+## How to Subscribe Premium Plan
 
 1. Join to Bot Support Server [(click here)](https://discord.gg/ActtuYWMfZ)
 2. Go to[ #contact-staff](https://discord.com/channels/853705138078220318/1052875870383132692)
@@ -18,7 +18,7 @@
 
 
 
-### **Payment**
+## **Payment**
 
 1.  USD
 

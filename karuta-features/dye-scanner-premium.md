@@ -4,7 +4,7 @@ description: >-
   for checking dye details.
 ---
 
-# 🩻 Dye Scanner
+# 🩻 Dye Scanner (Premium)
 
 ## For the trial in Main Server
 
@@ -17,6 +17,15 @@ description: >-
 * Good
 * Excellent
 * Mint
+
+## **How to Setup?**
+
+* Type `/serverconfig`&#x20;
+* Go to **Dye Scanner** menu
+* and select #channel which you want to use Dye Scanner.&#x20;
+* Set active.
+
+
 
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 

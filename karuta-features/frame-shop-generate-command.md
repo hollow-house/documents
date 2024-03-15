@@ -1,6 +1,6 @@
 # Frame Shop Generate Command
 
-**How 's work?**
+## **How 's work?**
 
 * Go to the page which you want to buy&#x20;
 * React shopping card emoji

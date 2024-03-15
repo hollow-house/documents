@@ -4,7 +4,7 @@ description: Adding a starboard feature when Karuta drops
 
 # Starboard (Normal)
 
-**How to add a manual drop to the starboard?**
+## **How to add a manual drop to the starboard?**
 
 * Choice Karuta Drop you would like to add
 * Reply to that message with `estar`

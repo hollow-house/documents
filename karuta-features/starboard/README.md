@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-**How to Setup?**
+## **How to Setup?**
 
 * Type `/serverconfig`&#x20;
 * Go to **Starboard Setting** menu

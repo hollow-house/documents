@@ -21,7 +21,7 @@
 * [Generate node command](karuta-features/generate-node-command.md)
 * [Frame Shop Generate Command](karuta-features/frame-shop-generate-command.md)
 * [Series Wishlist Ping (Main Server Only)](karuta-features/series-wishlist-ping-main-server-only.md)
-* [🩻 Dye Scanner](karuta-features/dye-scanner.md)
+* [🩻 Dye Scanner (Premium)](karuta-features/dye-scanner-premium.md)
 
 ## 💜 Sofi Features
 

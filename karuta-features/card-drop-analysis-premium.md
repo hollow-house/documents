@@ -12,12 +12,12 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### How's work?
+## How's work?
 
 * Your server should have a premium plan
 * If you haven't configured this feature yet, the bot will tell you only the wishlist of card
 
-**How to Setup?**
+## **How to Setup?**
 
 * use `/serverconfig`
 * go to **Card Analysis Setting** menu

@@ -19,7 +19,7 @@ layout:
 **Supported** `Card Collection,Inventory,Dye Collection`
 {% endhint %}
 
-**Emoji Related**
+## **Emoji Related**
 
 * 🔎  Search to get code
 
