@@ -5,7 +5,7 @@
 1. Join to Bot Support Server [(click here)](https://discord.gg/ActtuYWMfZ)
 2. Go to[ #contact-staff](https://discord.com/channels/853705138078220318/1052875870383132692)
 3. **Payment\*** (2 choices)
-   * 5$ or 50 :tickets:&#x20;
+   * 5$ or 65 :tickets: ( The ticket price can change depending on the current ratio)
    * 2 Boosts server (Repeatable while you are booster)
 4. Give me your **Server ID**
 5. `/serverinfo` in your server to check premium is active
@@ -26,3 +26,4 @@
 
     **via** [https://ko-fi.com/zeing](https://ko-fi.com/zeing)
 2. Karuta Ticket :tickets:&#x20;
+
