@@ -11,7 +11,7 @@ Read the Full Document at [https://discord.com/channels/853705138078220318/12105
 {% endhint %}
 
 {% hint style="info" %}
-**TIP:** you can copy website Url to share with your friends, It will save the state you select e.g.  category, bookmark, or Image Url
+**TIP:** you can copy the website url to share with your friends, It will save the state you select e.g.  category, bookmark, or Image Url
 {% endhint %}
 
 ### For Website (3D Image only)

@@ -11,7 +11,7 @@ Read the Full Document at [https://discord.com/channels/853705138078220318/12112
 {% endhint %}
 
 {% hint style="info" %}
-**TIP:** you can copy url website to share with your friends, It will save the state you select e.g.  category, bookmark, or Image Url
+**TIP:** you can copy the website url to share with your friends, It will save the state you select e.g.  category, bookmark, or Image Url
 {% endhint %}
 
 ### For Website
@@ -19,7 +19,7 @@ Read the Full Document at [https://discord.com/channels/853705138078220318/12112
 * Visit to https://hollow.zeing.xyz/glow-testing
 * Copy the Image Link
 * Paste it into the Image URL input field
-* Copy Discord ID who has glows
+* Copy Discord ID who has glow collection
 * Paste it into Glower ID
 
 Note: You can click **ME** button to change back to yours (Default is your discord ID)
