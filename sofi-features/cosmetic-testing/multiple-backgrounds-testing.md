@@ -6,8 +6,12 @@ description: >-
 
 # 🎴 Multiple Backgrounds Testing
 
-{% hint style="info" %}
+{% hint style="success" %}
 Read the Full Document at [https://discord.com/channels/853705138078220318/1210564272724377651](https://discord.com/channels/853705138078220318/1210564272724377651)
+{% endhint %}
+
+{% hint style="info" %}
+**TIP:** you can copy website Url to share with your friends, It will save the state you select e.g.  category, bookmark, or Image Url
 {% endhint %}
 
 ### For Website (3D Image only)

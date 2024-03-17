@@ -6,8 +6,12 @@ description: >-
 
 # ✨ Multiple Glows Testing
 
-{% hint style="info" %}
+{% hint style="success" %}
 Read the Full Document at [https://discord.com/channels/853705138078220318/1211200123149885500](https://discord.com/channels/853705138078220318/1211200123149885500)
+{% endhint %}
+
+{% hint style="info" %}
+**TIP:** you can copy url website to share with your friends, It will save the state you select e.g.  category, bookmark, or Image Url
 {% endhint %}
 
 ### For Website

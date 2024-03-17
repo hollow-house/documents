@@ -6,8 +6,12 @@ description: >-
 
 # 🖼️ Multiple Frames Testing
 
-{% hint style="info" %}
+{% hint style="success" %}
 Read the Full Document at [https://discord.com/channels/853705138078220318/1210116850055389244](https://discord.com/channels/853705138078220318/1210116850055389244)
+{% endhint %}
+
+{% hint style="info" %}
+**TIP:** you can copy website Url to share with your friends, It will save the state you select e.g.  category, bookmark, or Image Url
 {% endhint %}
 
 ### For Website (2D Image only)
