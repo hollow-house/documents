@@ -16,7 +16,11 @@ layout:
 # Searching
 
 {% hint style="info" %}
-**Supported** `Card Collection,Inventory,Dye Collection`
+**Supported**&#x20;
+
+* `Card Collection`
+* `Inventory`
+* `Dye Collection`
 {% endhint %}
 
 ## **Emoji Related**
