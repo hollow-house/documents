@@ -38,6 +38,7 @@
   * [Mini-Game Drop Ping](sofi-features/activity-ping/mini-game-drop-ping.md)
 * [Wishlist Ping (Main Server Only)](sofi-features/wishlist-ping-main-server-only.md)
 * [Generate Card Collection from Wishlist](sofi-features/generate-card-collection-from-wishlist.md)
+* [Auto-Correct Glow Command](sofi-features/auto-correct-glow-command.md)
 
 ## MISC
 
