@@ -22,6 +22,7 @@ layout:
 * `Inventory`
 * `Glow Collection`
 * `Version Collection`
+* `Wishlist Collection`
 {% endhint %}
 
 ## **Emoji Related**
