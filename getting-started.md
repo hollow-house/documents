@@ -6,7 +6,7 @@ description: How to Setup
 
 ## STEP 1. Invite Bot
 
-Invite Hollow Bot to your server, this [link](https://top.gg/bot/865167088438739024) to invite
+Invite Hollow Bot to your server, this [link](https://discord.com/oauth2/authorize?client\_id=887757121830141963) to invite
 
 {% hint style="info" %}
 **DO YOU HAVE A QUESTION OR NEED HELP:** join the [Support Server](https://discord.gg/ActtuYWMfZ) to get help
