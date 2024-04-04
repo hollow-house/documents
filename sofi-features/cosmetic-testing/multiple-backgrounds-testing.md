@@ -22,10 +22,10 @@ Read the Full Document at [https://discord.com/channels/853705138078220318/12105
 
 _Note: Image Url from View Command (SV) is not supported_
 
-<figure><img src="https://media.discordapp.net/attachments/1210564272724377651/1211197098410647553/website_bg.gif?ex=65ffc733&#x26;is=65ed5233&#x26;hm=6569c8cd7680f142eb0f4f4c545bb173163eb548f52dbbd5555f50068e6ca394&#x26;=&#x26;width=1194&#x26;height=1138" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://media.discordapp.net/attachments/1210564272724377651/1211197098410647553/website_bg.gif?ex=661b76b3&#x26;is=660901b3&#x26;hm=c951e632cfb1d62a342f94a989cbdfff8e7ffc4fdea4e515d62f06a71f095670&#x26;=&#x26;width=1194&#x26;height=1138" alt=""><figcaption></figcaption></figure>
 
 ## :lipstick:Reaction
 
 when you see :lipstick: emoji, then you can test on the website by clicking the button below. If button is disabled, that bot is not support current content.
 
-<figure><img src="https://media.discordapp.net/attachments/1210564272724377651/1211713385901858856/super_test.gif?ex=6601a807&#x26;is=65ef3307&#x26;hm=179b266111b0f0631a021f09642312435562458aaafeaa11e79dda107621d780&#x26;=&#x26;width=1320&#x26;height=1138" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://media.discordapp.net/attachments/1210116850055389244/1211713416121548881/super_test.gif?ex=661d578e&#x26;is=660ae28e&#x26;hm=676b47aaa791aaea309131c3a4a55ef31a35a87eabeab5db2fe111eb5a11c652&#x26;=&#x26;width=1320&#x26;height=1138" alt=""><figcaption></figcaption></figure>
