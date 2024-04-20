@@ -5,8 +5,8 @@
 1. Join to Bot Support Server [(click here)](https://discord.gg/ActtuYWMfZ)
 2. Go to[ #contact-staff](https://discord.com/channels/853705138078220318/1052875870383132692)
 3. **Payment\*** (2 choices)
-   * 5$ or 65 :tickets: ( The ticket price can change depending on the current ratio)&#x20;
-     * 25 % off  ticket price for  server size less than 1,000
+   * 4$ or 40 :tickets: ( The ticket price can change depending on the current ratio)&#x20;
+     * 25 % off  ticket price for server size less than 1,000
    * 2 Boosts server (Repeatable while you are booster)
 4. Give me your **Server ID**
 5. `/serverinfo` in your server to check premium is active
