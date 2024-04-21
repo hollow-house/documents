@@ -13,7 +13,7 @@
   * [Wishlist Drop Ping](karuta-features/activity-ping/wishlist-drop-ping.md)
   * [Event Drop Ping](karuta-features/activity-ping/event-drop-ping.md)
 * [Card Drop Analysis (Premium)](karuta-features/card-drop-analysis-premium.md)
-* [Series Wishlist Ping (Premium)](karuta-features/series-wishlist-ping-premium.md)
+* [Series Wishlist Ping (Premium)](karuta-features/series-wishlist-ping-main-server-only.md)
 * [Bits Summation](karuta-features/bits-summation.md)
 * [Searching](karuta-features/searching.md)
 * [Starboard](karuta-features/starboard/README.md)
@@ -39,6 +39,7 @@
 * [Searching](sofi-features/searching.md)
 * [Generate Card Collection from Wishlist](sofi-features/generate-card-collection-from-wishlist.md)
 * [Auto-Correct Glow Command](sofi-features/auto-correct-glow-command.md)
+* [Card Stat Calculator](sofi-features/card-stat-calculator.md)
 
 ## MISC
 

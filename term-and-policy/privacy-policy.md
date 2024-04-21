@@ -11,7 +11,7 @@ When adding a Hollow bot to a server or using it, you agree to this privacy poli
 
 ## Data Deletion:&#x20;
 
-We collect your User ID only for some features we need e.g. [series-wishlist-ping-premium.md](../karuta-features/series-wishlist-ping-premium.md "mention")
+We collect your User ID only for some features we need e.g. [series-wishlist-ping-main-server-only.md](../karuta-features/series-wishlist-ping-main-server-only.md "mention")
 
 * You can request data deletion by joining our support server.
 * You can DM Zeing directly&#x20;
