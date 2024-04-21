@@ -18,7 +18,7 @@ Allow **Use Application Commands** in Channel Permissions of channel
 
 use `/serverinfo` to check the server's configuration
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How to set ping role?
 

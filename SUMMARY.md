@@ -13,6 +13,7 @@
   * [Wishlist Drop Ping](karuta-features/activity-ping/wishlist-drop-ping.md)
   * [Event Drop Ping](karuta-features/activity-ping/event-drop-ping.md)
 * [Card Drop Analysis (Premium)](karuta-features/card-drop-analysis-premium.md)
+* [Series Wishlist Ping (Premium)](karuta-features/series-wishlist-ping-premium.md)
 * [Bits Summation](karuta-features/bits-summation.md)
 * [Searching](karuta-features/searching.md)
 * [Starboard](karuta-features/starboard/README.md)
@@ -20,13 +21,11 @@
   * [Auto Add to Starboard (Premium)](karuta-features/starboard/auto-add-to-starboard-premium.md)
 * [Generate node command](karuta-features/generate-node-command.md)
 * [Frame Shop Generate Command](karuta-features/frame-shop-generate-command.md)
-* [Series Wishlist Ping (Main Server Only)](karuta-features/series-wishlist-ping-main-server-only.md)
 * [🩻 Dye Scanner (Premium)](karuta-features/dye-scanner-premium.md)
 * [Auto-Correct Dye Command](karuta-features/auto-correct-dye-command.md)
 
 ## 💜 Sofi Features
 
-* [Searching](sofi-features/searching.md)
 * [💄 Cosmetic Testing](sofi-features/cosmetic-testing/README.md)
   * [🖼️ Multiple Frames Testing](sofi-features/cosmetic-testing/multiple-frames-testing.md)
   * [🎴 Multiple Backgrounds Testing](sofi-features/cosmetic-testing/multiple-backgrounds-testing.md)
@@ -36,7 +35,8 @@
   * [Wishlist Drop Ping](sofi-features/activity-ping/wishlist-drop-ping.md)
   * [Series Drop Ping](sofi-features/activity-ping/series-drop-ping.md)
   * [Mini-Game Drop Ping](sofi-features/activity-ping/mini-game-drop-ping.md)
-* [Series Wishlist Ping](sofi-features/series-wishlist-ping.md)
+* [Series Wishlist Ping](sofi-features/series-wishlist-ping-main-server-only.md)
+* [Searching](sofi-features/searching.md)
 * [Generate Card Collection from Wishlist](sofi-features/generate-card-collection-from-wishlist.md)
 * [Auto-Correct Glow Command](sofi-features/auto-correct-glow-command.md)
 
