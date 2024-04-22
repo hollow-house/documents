@@ -26,6 +26,7 @@
 
 ## 💜 Sofi Features
 
+* [Overview](sofi-features/overview.md)
 * [💄 Cosmetic Testing](sofi-features/cosmetic-testing/README.md)
   * [🖼️ Multiple Frames Testing](sofi-features/cosmetic-testing/multiple-frames-testing.md)
   * [🎴 Multiple Backgrounds Testing](sofi-features/cosmetic-testing/multiple-backgrounds-testing.md)
