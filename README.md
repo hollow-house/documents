@@ -17,8 +17,8 @@ Bot needs to use a High-Performance Server, Which makes the Bot process faster t
 
 * Drop Analysis (Karuta)
 * Auto Starboard (Karuta)&#x20;
-* Series Drop Analysis (Karuta) (Main Server Only)
-* Series Drop Analysis (Sofi) (Main Server Only)
+* Series Drop Analysis (Karuta)
+* Series Drop Analysis (Sofi)
 * Powerful Searching (Karuta, Sofi)
 * Dye Scanner&#x20;
 
@@ -36,6 +36,8 @@ Bot needs to use a High-Performance Server, Which makes the Bot process faster t
 **Status**                    : Online
 
 **Since**                     : 2021
+
+
 
 
 {% endhint %}
