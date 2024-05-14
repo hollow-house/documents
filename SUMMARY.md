@@ -41,7 +41,7 @@
 * [Generate Card Collection from Wishlist](sofi-features/generate-card-collection-from-wishlist.md)
 * [Auto-Correct Glow Command](sofi-features/auto-correct-glow-command.md)
 * [Card Stat Calculator](sofi-features/card-stat-calculator.md)
-* [Auto Quest Remaining](sofi-features/auto-quest-remaining.md)
+* [Auto Quest Reminder](sofi-features/auto-quest-reminder.md)
 * [Card Drop Analysis (Main Server Now)](sofi-features/card-drop-analysis-main-server-now.md)
 
 ## MISC

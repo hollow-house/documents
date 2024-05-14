@@ -2,7 +2,7 @@
 description: Introducing the SOFI AUTO QUEST Reminder
 ---
 
-# Auto Quest Remaining
+# Auto Quest Reminder
 
 ### Introducing the **SOFI AUTO QUEST Reminder**
 
@@ -19,4 +19,4 @@ description: Introducing the SOFI AUTO QUEST Reminder
 
 * When it's time, it will DM you.
 
-\*\*Note: \*\*Please do `stask` again after you clicked **begin quest** button
+**Note**: Please do `stask` again after you clicked **begin quest** button
