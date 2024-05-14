@@ -22,7 +22,9 @@ Read the Full Document at [https://discord.com/channels/853705138078220318/12101
 
 _Note: Image Url from View Command (SV) is not supported_
 
-<figure><img src="https://media.discordapp.net/attachments/1210116850055389244/1211198831019163688/web_frame_test.gif?ex=661b7850&#x26;is=66090350&#x26;hm=61350bd91b6448cf8e98300c97123e087b0c0a258b701f90bb98defdfddda1d9&#x26;=&#x26;width=1140&#x26;height=1138" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/frame_super_test.gif" alt=""><figcaption></figcaption></figure>
 
 ## :lipstick:Reaction
 
