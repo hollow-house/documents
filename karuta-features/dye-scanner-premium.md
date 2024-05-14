@@ -6,7 +6,7 @@ description: >-
 
 # 🩻 Dye Scanner (Premium)
 
-## For the trial in Main Server
+For the trial in Main Server
 
 [https://discord.com/channels/853705138078220318/1075486909893193730](https://discord.com/channels/853705138078220318/1075486909893193730)
 
