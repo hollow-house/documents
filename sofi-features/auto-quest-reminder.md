@@ -11,7 +11,7 @@ description: Introducing the SOFI AUTO QUEST Reminder
 #### **Setup steps:**
 
 * Go to /userconfig.
-* Turn on the **auto quest** toggle 🟢.
+* Turn on the **Quest Complete Alert** toggle 🟢.
 * Try to type the command `stask`.
 * You'll see this message:
 
