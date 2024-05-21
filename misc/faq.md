@@ -28,9 +28,5 @@ use `/serverinfo` to check the server's configuration
 
 
 
-### Why does the bot not verify?
 
-I used to try it but unfortunately, I can't, then I changed my purpose to bot support only the main server and server that like the bot (I will try again in 2024)
-
-**Therefore**, Bot will run smoothly and faster
 
