@@ -22,7 +22,7 @@ description: >-
 * use `/serverconfig`
 * go to **Card Analysis Setting** menu
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Card Analysis Setting</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Card Analysis Setting</p></figcaption></figure>
 
 {% hint style="warning" %}
 What's the **MODE** of Card Drop Analysis?

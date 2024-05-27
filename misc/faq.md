@@ -16,7 +16,7 @@ Allow **Use Application Commands** in Channel Permissions of channel
 
 <div align="left">
 
-<img src="../.gitbook/assets/image (9) (1).png" alt="">
+<img src="../.gitbook/assets/image (9) (1) (1).png" alt="">
 
 </div>
 

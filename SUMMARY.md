@@ -45,6 +45,7 @@
 * [Auto Quest Reminder](sofi-features/auto-quest-reminder.md)
 * [Card Drop Analysis (Main Server Now)](sofi-features/card-drop-analysis-main-server-now.md)
 * [Drop Leaderboard](sofi-features/drop-leaderboard.md)
+* [Create card collection search filter](sofi-features/create-card-collection-search-filter.md)
 
 ## 💙 Gachapon
 
