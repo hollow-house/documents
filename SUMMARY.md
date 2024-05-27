@@ -23,6 +23,7 @@
 * [Frame Shop Generate Command](karuta-features/frame-shop-generate-command.md)
 * [🩻 Dye Scanner (Premium)](karuta-features/dye-scanner-premium.md)
 * [Auto-Correct Dye Command](karuta-features/auto-correct-dye-command.md)
+* [Drop Leaderboard](karuta-features/drop-leaderboard.md)
 
 ## 💜 Sofi Features
 
@@ -43,6 +44,11 @@
 * [Card Stat Calculator](sofi-features/card-stat-calculator.md)
 * [Auto Quest Reminder](sofi-features/auto-quest-reminder.md)
 * [Card Drop Analysis (Main Server Now)](sofi-features/card-drop-analysis-main-server-now.md)
+* [Drop Leaderboard](sofi-features/drop-leaderboard.md)
+
+## 💙 Gachapon
+
+* [Drop Leaderboard](gachapon/drop-leaderboard.md)
 
 ## MISC
 
