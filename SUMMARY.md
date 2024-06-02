@@ -21,7 +21,7 @@
   * [Auto Add to Starboard (Premium)](karuta-features/starboard/auto-add-to-starboard-premium.md)
 * [Generate node command](karuta-features/generate-node-command.md)
 * [Frame Shop Generate Command](karuta-features/frame-shop-generate-command.md)
-* [🩻 Dye Scanner (Premium)](karuta-features/dye-scanner-premium.md)
+* [🩻 Dye Scanner](karuta-features/dye-scanner.md)
 * [Auto-Correct Dye Command](karuta-features/auto-correct-dye-command.md)
 * [Drop Leaderboard](karuta-features/drop-leaderboard.md)
 

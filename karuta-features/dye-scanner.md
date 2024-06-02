@@ -4,7 +4,7 @@ description: >-
   for checking dye details.
 ---
 
-# 🩻 Dye Scanner (Premium)
+# 🩻 Dye Scanner
 
 For the trial in Main Server
 
@@ -28,5 +28,7 @@ For the trial in Main Server
 
 
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+## Premium Server can use the View Primary Color(s) button.
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>When you clicked View Primary Color(s)</p></figcaption></figure>
