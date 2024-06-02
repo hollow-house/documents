@@ -24,6 +24,7 @@
 * [🩻 Dye Scanner](karuta-features/dye-scanner.md)
 * [Auto-Correct Dye Command](karuta-features/auto-correct-dye-command.md)
 * [Drop Leaderboard](karuta-features/drop-leaderboard.md)
+* [Get User Board](karuta-features/get-user-board.md)
 
 ## 💜 Sofi Features
 
@@ -47,6 +48,7 @@
 * [Drop Leaderboard](sofi-features/drop-leaderboard.md)
 * [Create card collection search filter](sofi-features/create-card-collection-search-filter.md)
 * [Show Item Info](sofi-features/show-item-info.md)
+* [Get User Board](sofi-features/get-user-board.md)
 
 ## 💙 Gachapon
 
