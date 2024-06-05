@@ -4,8 +4,13 @@ description: Hollow Bot is...
 
 # What is Hollow Bot?
 
-Hollow is new and has many features to help you play [Karuta](https://karuta.xyz/), [Sofi](https://sofi.gg/), and [Gachapon](https://gachapon.me/).\
-Support mobile user-friendly to use it
+Hollow is a helper-bot built from scratch by one extremely passionate Karuta and Sofi player.
+
+It is packed with tons of useful tools to help you play, manage, organize, and customize your collections across multiple bots, with new features being added / improved weekly!
+
+Hollow supports commands for Karuta, Sofi, and Gachapon.
+
+Additionally, Hollow delivers huge quality-of-life upgrades for mobile users in both Sofi & Karuta.
 
 {% hint style="danger" %}
 Bot needs to use a High-Performance Server, Which makes the Bot process faster than it now
