@@ -50,9 +50,18 @@
 * [Show Item Info](sofi-features/show-item-info.md)
 * [Get User Board](sofi-features/get-user-board.md)
 
+## ❤️ Wishy
+
+* [Pull Leaderboard](wishy/pull-leaderboard.md)
+* [Searching](wishy/searching.md)
+
 ## 💙 Gachapon
 
 * [Drop Leaderboard](gachapon/drop-leaderboard.md)
+
+## 💚 Tofu
+
+* [Summon Leaderboard](tofu/summon-leaderboard.md)
 
 ## MISC
 
