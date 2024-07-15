@@ -44,7 +44,7 @@
 * [Auto-Correct Glow Command](sofi-features/auto-correct-glow-command.md)
 * [Card Stat Calculator](sofi-features/card-stat-calculator.md)
 * [Auto Quest Reminder](sofi-features/auto-quest-reminder.md)
-* [Card Drop Analysis (Main Server Now)](sofi-features/card-drop-analysis-main-server-now.md)
+* [Card Drop Analysis (Main Server Only)](sofi-features/card-drop-analysis-main-server-only.md)
 * [Drop Leaderboard](sofi-features/drop-leaderboard.md)
 * [Create card collection search filter](sofi-features/create-card-collection-search-filter.md)
 * [Show Item Info](sofi-features/show-item-info.md)
