@@ -2,7 +2,7 @@
 
 ### How to set up Hollow Bot?
 
-You can use `/serverconfig` to set up everything
+You can use `/serverconfig` or `esconfig` to set up everything
 
 <figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
@@ -20,13 +20,14 @@ Allow **Use Application Commands** in Channel Permissions of channel
 
 </div>
 
-### How to check the configuration?
+### How to check the server's configuration?
 
-use `/serverinfo` to check the server's configuration
+use `/serverconfig` or `esconfig` to check the server's configuration
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+### How to check the user's configuration?
 
+use `/userconfig` or `euconfig` to check the user's configuration
 
-
-
+<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>

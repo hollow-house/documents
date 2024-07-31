@@ -3,11 +3,11 @@
 ## How to Subscribe Premium Plan
 
 1. Join to Bot Support Server [(click here)](https://discord.gg/ActtuYWMfZ)
-2. Go to[ #contact-staff](https://discord.com/channels/853705138078220318/1052875870383132692)
+2. Go to[ ](https://discord.com/channels/853705138078220318/1234813922146521108)[#hollow-lobby](https://discord.com/channels/853705138078220318/1234813922146521108) channel
 3. **Payment\*** (2 choices)
-   * 4$ or 40 :tickets: ( The ticket price can change depending on the current ratio)&#x20;
+   * 5$ or 40 :tickets: ( The ticket price can change depending on the current ratio)&#x20;
      * 25 % off  ticket price for server size less than 1,000
-   * 2 Boosts server (Repeatable while you are booster)
+   * ~~2 Boosts server (Repeatable while you are booster)~~ **CLOSED**
 4. Give me your **Server ID**
 5. `/serverinfo` in your server to check premium is active
 6. checkout features & command page to see features that the bot provides
