@@ -4,7 +4,7 @@ When adding a Hollow bot to a server or using it, you agree to this privacy poli
 
 ## Data We Collect
 
-* Message content(mostly from Sofi, Karuta, and Gachapon), reactions, and button interactions
+* Message content(mostly from Sofi, Karuta), reactions, and button interactions
 * User IDs
 * Guild Channel, Guild Roles, Guild IDs
 * Data essential for Discord bot operation We do not share or sell your personal information.
