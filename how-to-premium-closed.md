@@ -8,8 +8,8 @@
    * 5$ or 40 :tickets: ( The ticket price can change depending on the current ratio)&#x20;
      * 25 % off  ticket price for server size less than 1,000
    * ~~2 Boosts server (Repeatable while you are booster)~~ **CLOSED**
-4. Give me your **Server ID**
-5. `/serverinfo` in your server to check premium is active
+4. Ping zeing and send your **Server ID**
+5. `/serverconfig` in your server to check premium is active
 6. checkout features & command page to see features that the bot provides
 7.  enjoy!!
 
