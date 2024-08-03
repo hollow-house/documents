@@ -23,7 +23,7 @@
 
 1.  USD
 
-    **via** PayPal (GnS PayPal tax on you)
+    **via** PayPal&#x20;
 
     **via** [https://ko-fi.com/zeing](https://ko-fi.com/zeing)
 2. Karuta Ticket :tickets:&#x20;
