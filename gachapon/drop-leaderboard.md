@@ -2,7 +2,7 @@
 
 Explore the excitement and engagement within our community by checking out the Drop Leaderboard! Discover who the top contributors are and see who's making the most significant impact through their drops.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 To access the Drop Leaderboard for Gachapon, you can follow these steps:
 
