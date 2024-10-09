@@ -1,4 +1,4 @@
-# How to be Premium
+# How to Subscribe Premium Plan
 
 ## How to Subscribe Premium Plan
 
@@ -11,6 +11,7 @@
    * Karuta Ticket ( The ticket price can change depending on the current ratio)&#x20;
      * 40  :tickets:&#x20;
      * 30  :tickets:  (25 % off ticket price for server size less than 1,000)
+     * 20  :tickets:  (50 % off ticket price for server size less than 200)
    * ~~2 Boosts server (Repeatable while you are booster)~~ **CLOSED**
 4. Ping Zeing with this information
    1. **Server ID**
