@@ -25,7 +25,7 @@
 * [Auto-Correct Dye Command](karuta-features/auto-correct-dye-command.md)
 * [Drop Leaderboard](karuta-features/drop-leaderboard.md)
 * [Get User Board](karuta-features/get-user-board.md)
-* [Code from Grab](karuta-features/code-from-grab.md)
+* [Quick Card Code](karuta-features/quick-card-code.md)
 
 ## 💜 Sofi Features
 
@@ -50,23 +50,23 @@
 * [Create card collection search filter](sofi-features/create-card-collection-search-filter.md)
 * [Show Item Info](sofi-features/show-item-info.md)
 * [Get User Board](sofi-features/get-user-board.md)
-* [Code from Grab](sofi-features/code-from-grab.md)
+* [Quick Card Code](sofi-features/quick-card-code.md)
 
 ## ❤️ Wishy
 
 * [Pull Leaderboard](wishy/pull-leaderboard.md)
 * [Searching](wishy/searching.md)
-* [Code from Pull](wishy/code-from-pull.md)
+* [Code from Pull (Quick Card Code)](wishy/code-from-pull-quick-card-code.md)
 
 ## 💙 Gachapon
 
 * [Drop Leaderboard](gachapon/drop-leaderboard.md)
-* [Code from Grab](gachapon/code-from-grab.md)
+* [Quick Card Code](gachapon/quick-card-code.md)
 
 ## 💚 Tofu
 
 * [Summon Leaderboard](tofu/summon-leaderboard.md)
-* [Code from Summon](tofu/code-from-summon.md)
+* [Code from Summon (Quick Card Code)](tofu/code-from-summon-quick-card-code.md)
 
 ## MISC
 
