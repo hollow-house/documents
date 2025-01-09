@@ -26,5 +26,5 @@ It needs to be enabled on the server via /serverconfig or eserverconfig.
 
     You can reset the leaderboard on your server
 
-    * &#x20;`/leaderboard wishy-reset`
+    * &#x20;`/leaderboard reset wishy`
     * `/serverconfig`
