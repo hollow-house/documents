@@ -26,5 +26,5 @@ It needs to be enabled on the server via /serverconfig.
 
     You can reset the leaderboard on your server
 
-    * &#x20;`/leaderboard gachapon-reset`
+    * &#x20;`/leaderboard reset gachapon`
     * `/serverconfig`
