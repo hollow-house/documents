@@ -6,7 +6,7 @@ description: >-
 
 # Starboard
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 ## **How to Setup?**
 
@@ -16,10 +16,10 @@ description: >-
 * Set active when you want to auto-add.
 * Set the number of minimum wishlists that you want to add. (Premium Only)
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Starboard Setting</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption><p>Starboard Setting</p></figcaption></figure>
 
-{% content-ref url="../starboard-normal-and-auto-add-to-starboard-premium.md" %}
-[starboard-normal-and-auto-add-to-starboard-premium.md](../starboard-normal-and-auto-add-to-starboard-premium.md)
+{% content-ref url="starboard-normal.md" %}
+[starboard-normal.md](starboard-normal.md)
 {% endcontent-ref %}
 
 {% content-ref url="auto-add-to-starboard-premium.md" %}

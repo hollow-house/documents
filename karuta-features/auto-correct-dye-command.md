@@ -18,6 +18,6 @@ Bot-corrected output:&#x20;
 
 kdye 397nff $t8w0q $dlhh2 $785nd $dfv6d $d3k4q $dqf31 $dftmw $d86w9 $dflzn $d32xl $dbw3f $7g0cz $dfdfv $dljpc $7tf72 $4czj3 $fm3wr $0mwd9 $nkfq4 $7s7j8 $0mwd9
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 \

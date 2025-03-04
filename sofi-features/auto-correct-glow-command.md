@@ -18,6 +18,6 @@ Bot-corrected output:&#x20;
 
 sglo nmiost #n1n7gf #kjesbu #jabbku #17a9au #viw25e #y1e9ct
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 \

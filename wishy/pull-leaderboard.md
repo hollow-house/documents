@@ -2,7 +2,7 @@
 
 Explore the excitement and engagement within our community by checking out the Pull Leaderboard! Discover who the top contributors are and see who's making the most significant impact through their drops.
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
 To access the Pull Leaderboard for Wishy, you can follow these steps:
 
@@ -15,7 +15,7 @@ To access the Pull Leaderboard for Wishy, you can follow these steps:
 It needs to be enabled on the server via /serverconfig or eserverconfig.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
 **Admin Actions**
 

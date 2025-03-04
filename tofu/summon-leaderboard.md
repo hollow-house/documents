@@ -2,7 +2,7 @@
 
 Explore the excitement and engagement within our community by checking out the Summon Leaderboard! Discover who the top contributors are and see who's making the most significant impact through their drops.
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
 To access the Summon Leaderboard for Tofu, you can follow these steps:
 
@@ -15,7 +15,7 @@ To access the Summon Leaderboard for Tofu, you can follow these steps:
 It needs to be enabled on the server via /serverconfig.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
 **Admin Actions**
 

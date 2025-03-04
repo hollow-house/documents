@@ -10,7 +10,7 @@ description: >-
 **How to subscribe premium**, Contact **zeing** in Support Server.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 ## How's work?
 
@@ -22,7 +22,7 @@ description: >-
 * use `/serverconfig`
 * go to **Card Analysis Setting** menu
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Card Analysis Setting</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption><p>Card Analysis Setting</p></figcaption></figure>
 
 {% hint style="warning" %}
 What's the **MODE** of Card Drop Analysis?

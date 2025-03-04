@@ -22,7 +22,7 @@ Read the Full Document at [https://discord.com/channels/853705138078220318/12105
 
 _Note: Image Url from View Command (SV) is not supported_
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/frame_super_test.gif" alt=""><figcaption></figcaption></figure>
 
