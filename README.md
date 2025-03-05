@@ -8,7 +8,7 @@ Hollow is a helper-bot built from scratch by one extremely passionate Karuta and
 
 It is packed with tons of useful tools to help you play, manage, organize, and customize your collections across multiple bots, with new features being added / improved weekly!
 
-Hollow supports commands for Karuta, Sofi, and Gachapon.
+Hollow supports commands for Karuta, Sofi.
 
 Additionally, Hollow delivers huge quality-of-life upgrades for mobile users in both Sofi & Karuta.
 
@@ -26,6 +26,7 @@ Bot needs to use a High-Performance Server, Which makes the Bot process faster t
 * Series Drop Analysis (Sofi)
 * Powerful Searching (Karuta, Sofi)
 * Dye Scanner&#x20;
+* Game Leaderboard
 
 
 
