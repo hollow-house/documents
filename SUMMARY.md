@@ -4,7 +4,10 @@
 * [Getting Started](getting-started.md)
 * [Commands](commands.md)
 * [⭐ Premium Plan](premium-plan.md)
-* [Game Bot Leaderboard](game-bot-leaderboard.md)
+
+## Genernal
+
+* [Game Bot Leaderboard](genernal/game-bot-leaderboard.md)
 
 ## 🤎 Karuta Features
 

@@ -6,7 +6,7 @@ icon: ranking-star
 
 Explore the excitement and engagement within our community by checking out the Drop Leaderboard! Discover who the top contributors are and see who's making the most significant impact through their drops.
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 **Bots**
 
@@ -53,7 +53,7 @@ It needs to be enabled on the server via /serverconfig.
 * Select the Leaderboard you want to enable&#x20;
 * Click Active
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### More Action
 
