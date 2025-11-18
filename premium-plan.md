@@ -10,7 +10,7 @@ description: You can enjoy premium features of bot
 2. Go to[ ](https://discord.com/channels/853705138078220318/1234813922146521108)[#hollow-lobby](https://discord.com/channels/853705138078220318/1234813922146521108) channel
 3. **Payment\*** (3 choices)
    * USD - Prices start at <mark style="color:green;">**$4**</mark>. If you'd like to pay more, it’s greatly appreciated!
-     * **via** PayPal [https://paypal.me/itszeing](https://paypal.me/itszeing)
+     * **via** **WISE** [https://wise.com/pay/me/witthawins1](https://wise.com/pay/me/witthawins1)
      * **via Ko-Fi** [https://ko-fi.com/zeing](https://ko-fi.com/zeing)
      * <mark style="color:red;">I prefer money in real life since I can use it to pay for bot hosting. I'll try to keep the bot running whenever I have the funds</mark>
    * Karuta Ticket
