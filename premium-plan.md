@@ -11,7 +11,7 @@ description: You can enjoy premium features of bot
 3. **Payment\*** (3 choices)
    * USD - Prices start at <mark style="color:green;">**$4**</mark>. If you'd like to pay more, it’s greatly appreciated!
      * **via** **WISE** [https://wise.com/pay/me/witthawins1](https://wise.com/pay/me/witthawins1)
-     * **via Ko-Fi** [https://ko-fi.com/zeing](https://ko-fi.com/zeing)
+     * **via Buy Me a Coffee** [**https://buymeacoffee.com/zeing**](https://buymeacoffee.com/zeing)
      * <mark style="color:red;">I prefer money in real life since I can use it to pay for bot hosting. I'll try to keep the bot running whenever I have the funds</mark>
    * Karuta Ticket
      * Servers with **over 1,000 members:** 20 :tickets:&#x20;
@@ -19,7 +19,7 @@ description: You can enjoy premium features of bot
    * ~~2 Boosts server (Repeatable while you are booster)~~ **CLOSED**
 4. Ping Zeing with this information
    1. **Server ID**
-   2. **Payment e.g. Ko-Fi / Ticket / Paypal**
+   2. **Payment e.g. BMC / Ticket / Paypal**
 5. `/serverconfig` in your server to check if the premium is active
 6. Checkout features & command page to see features that the bot provides
 7.  Enjoy!!
