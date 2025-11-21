@@ -13,21 +13,22 @@ description: You can enjoy premium features of bot
      * **via Paypal** [https://paypal.me/itszeing](https://paypal.me/itszeing)
      * **via KO-FI** [https://ko-fi.com/zeing](https://ko-fi.com/zeing) (There are exclusive roles/features for membership)
      * <mark style="color:red;">I prefer money in real life since I can use it to pay for bot hosting. The bot will be running whenever I have the funds</mark>
-   * Karuta&#x20;
+   * Karuta\*\*
      * 20 Ticket :tickets:&#x20;
-   * Sofi
+   * Sofi\*\*
      * 40 Wist  <img src=".gitbook/assets/image (2).png" alt="" data-size="line">
    * ~~2 Boosts server (Repeatable while you are a booster)~~ **CLOSED**
 4. Ping Zeing with this information
    1. **Server ID**
    2. **Payment e.g. Wist / Ticket / Paypal /** Ko-fi
-5. &#x20; Use `/serverconfig` for checking your server premium detail
+5. Use `/serverconfig` for checking your server premium detail
 6. Checkout the features & command page to see the features that the bot provides
 7.  Enjoy!!
 
 
 
-**\*1 time per 30 days**
+**\*1 time per 30 days**\
+**\*\*** We are currently setting a 3-month maximum limit when you want using tickets or Wist currency
 
 
 
