@@ -56,6 +56,7 @@
 * [Starboard](sofi-features/starboard/README.md)
   * [Starboard (Normal)](sofi-features/starboard/starboard-normal.md)
   * [Auto Add to Starboard (Premium)](sofi-features/starboard/auto-add-to-starboard-premium.md)
+* [Series Drop (ssd command)](sofi-features/series-drop-ssd-command.md)
 
 ## ❤️ Wishy
 
