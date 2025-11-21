@@ -8,15 +8,15 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
-## **How to Setup?**
+## **How to Set up?**
 
 * Type `/serverconfig`&#x20;
-* Go to **Starboard Setting** menu
+* Go to **Starboard Setting (Karuta)** menu
 * and select #channel which you want to make starboard channel.&#x20;
 * Set active when you want to auto-add.
-* Set the number of minimum wishlists that you want to add. (Premium Only)
+* Set the **minimum number of** number of minimum wishlists that you want to add. (Premium Only)
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption><p>Starboard Setting</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="starboard-normal.md" %}
 [starboard-normal.md](starboard-normal.md)

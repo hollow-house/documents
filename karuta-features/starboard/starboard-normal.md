@@ -6,7 +6,7 @@ description: Adding a starboard feature when Karuta drops
 
 ## **How to add a manual drop to the starboard?**
 
-* Choice Karuta Drop you would like to add
+* Choose Karuta Drop you would like to add
 * Reply to that message with `estar`
 
 <figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>

@@ -53,6 +53,9 @@
 * [Show Item Info](sofi-features/show-item-info.md)
 * [Get User Board](sofi-features/get-user-board.md)
 * [Quick Card Code](sofi-features/quick-card-code.md)
+* [Starboard](sofi-features/starboard/README.md)
+  * [Starboard (Normal)](sofi-features/starboard/starboard-normal.md)
+  * [Auto Add to Starboard (Premium)](sofi-features/starboard/auto-add-to-starboard-premium.md)
 
 ## ❤️ Wishy
 
@@ -78,5 +81,5 @@
 * [Hollow Bot Website](https://hollow.zeing.xyz/)
 * [Support Server](https://discord.com/invite/ActtuYWMfZ)
 * [Invite Bot](https://top.gg/bot/887757121830141963)
-* [Donate ](https://ko-fi.com/zeing)
+* [Donate](https://ko-fi.com/zeing)
 * [Vote Bot](https://top.gg/bot/887757121830141963/vote)
