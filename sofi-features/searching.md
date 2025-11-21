@@ -1,16 +1,5 @@
 ---
 description: Allows you to search for anything you want effortlessly. Also Mobile-friendly
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Searching
