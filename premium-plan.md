@@ -20,8 +20,8 @@ description: You can enjoy premium features of bot
    * ~~2 Boosts server (Repeatable while you are a booster)~~ **CLOSED**
 4. Ping Zeing with this information
    1. **Server ID**
-   2. **Payment e.g. Wist / Ticket / Paypal /** Ko-fi
-5. Use `/serverconfig` for checking your server premium detail
+   2. **Payment** e.g. Wist / Ticket / Paypal / Ko-fi
+5. Use `/serverconfig` for checking your server premium details
 6. Checkout the features & command page to see the features that the bot provides
 7.  Enjoy!!
 
