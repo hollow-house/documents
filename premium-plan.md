@@ -16,7 +16,7 @@ description: You can enjoy premium features of bot
    * Karuta&#x20;
      * 20 Ticket :tickets:&#x20;
    * Sofi
-     * 40 Wist  <img src=".gitbook/assets/image.png" alt="" data-size="line">
+     * 40 Wist  <img src=".gitbook/assets/image (2).png" alt="" data-size="line">
    * ~~2 Boosts server (Repeatable while you are a booster)~~ **CLOSED**
 4. Ping Zeing with this information
    1. **Server ID**
