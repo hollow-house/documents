@@ -11,7 +11,7 @@ description: You can enjoy premium features of bot
 3. **Payment\*** (3 choices)
    * USD - Prices start at <mark style="color:green;">**$3**</mark>. If you'd like to pay more, it’s greatly appreciated!
      * **via Paypal** [https://paypal.me/itszeing](https://paypal.me/itszeing)
-     * **via KO-FI** [https://ko-fi.com/zeing](https://ko-fi.com/zeing)
+     * **via KO-FI** [https://ko-fi.com/zeing](https://ko-fi.com/zeing) (There are exclusive roles/features for membership)
      * <mark style="color:red;">I prefer money in real life since I can use it to pay for bot hosting. The bot will be running whenever I have the funds</mark>
    * Karuta&#x20;
      * 20 Ticket :tickets:&#x20;
