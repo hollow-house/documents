@@ -53,7 +53,7 @@ It needs to be enabled on the server via /serverconfig.
 * Select the Leaderboard you want to enable&#x20;
 * Click Active
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### More Action
 

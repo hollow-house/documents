@@ -29,6 +29,7 @@
 * [Auto-Correct Dye Command](karuta-features/auto-correct-dye-command.md)
 * [Get User Board](karuta-features/get-user-board.md)
 * [Quick Card Code](karuta-features/quick-card-code.md)
+* [Multi-Trade Detection](karuta-features/multi-trade-detection.md)
 
 ## 💜 Sofi Features
 
