@@ -4,4 +4,4 @@ Be cautious of a recent scam. Scammers are offering to purchase all your bits in
 
 Anyway, You'll be safe trading, there is a detector to flag risky multi-trades, example below
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

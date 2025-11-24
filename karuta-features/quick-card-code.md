@@ -11,4 +11,4 @@ description: You can use getting a card code from the bot's grabbed message
 * @zeing took the **Keiichi Hiiragi** card `vbrvmp5`! It's in **good** condition.
   * You will get `vbrvmp5`
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
